@@ -1,0 +1,56 @@
+{
+    "settings::timer": {
+        "resetTime": 120000,
+        "jitter": 15000,
+        "resetOnConnect": true
+    },
+    "settings::tags": {
+        "tags": [
+            {
+                "name": "ambient",
+                "commands": [
+                    "gslide comment=\"Jim Cook's WPR facts\" id=1wXHtOeQ8sMirT514lmwHXu_J93q9QviMvZOp6Kx6qfs",
+                    "rss url=https://air.mozilla.org/feed/corsica2/public/webm item=0",
+                    "http://mozilla.github.io/referral-board/",
+                    "http://charts.mozilla.org/ffos/blockers.html#responsibility=FFOS_Team",
+                    "http://blog.seanmartell.com/wp-content/uploads/2013/09/dinosaur.png bg=#e4e4e4",
+                    "http://i.imgur.com/HuyRINU.png bg=#e2e2e2",
+                    "http://nickdesaulniers.github.io/where-is-firefox-os/",
+                    "martell"
+                ]
+            },
+            {
+                "name": "airmo",
+                "commands": [
+                    "http://people.mozilla.org/~rmilewski/airmo/calendar/slide.html",
+                    "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
+                ]
+            },
+            {
+                "name": "fxos",
+                "commands": [
+                    "http://charts.mozilla.org/ffos/blockers.html#responsibility=FFOS_Team"
+                ]
+            },
+            {
+                "name": "whimsy",
+                "commands": [
+                    "content type=html content=\"<body style='background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png) no-repeat center,linear-gradient(to right,red 0%,orange 20vw,yellow 40vw,#0f0 60vw, blue 80vw, violet 100vw);height:100%;background-size: 90vh,cover;margin:0'></body>\"",
+                    "http://people.mozilla.org/~mbrubeck/needs.png bg=#fff",
+                    "https://dl.dropboxusercontent.com/u/105227/Screen%20Shot%202014-04-17%20at%2010.47.44%20AM.png",
+                    "http://www.haneke.net/",
+                    "http://xor.lonnen.com/2048-AI",
+                    "http://random-octodex.herokuapp.com/random bg=#fff",
+                    "http://www.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
+                ]
+            },
+            {
+                "name": "mtv",
+                "commands": [
+                    "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla Mountain View&color=#E66000'>\"",
+                    "http://bits.potch.me/fx10.png"
+                ]
+            }
+        ]
+    }
+}
