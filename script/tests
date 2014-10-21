@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# simulated testrunner output with one real test -- does the json parse?
+
+function indent {
+  echo "   $@"
+}
+
+function bail {
+  echo
+  echo "test failed. aborting tests."
+  exit 1
+}
+
+etext=$(node -e "require('./state.json')" 2>&1)
+ecode=$?
+
+if [ $ecode -ne 0 ]; then
+  case $etext in
+    *"Unexpected token"*)
+      indent "state.json is not valid JSON"
+      bail
+      ;;
+  esac
+
+  indent "something unanticipated went wrong!"
+  indent "$etext"
+  bail
+fi
+
+indent "."
+echo
+echo "1 of 1 passed!"

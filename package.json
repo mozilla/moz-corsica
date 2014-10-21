@@ -2,8 +2,10 @@
   "name": "corsica-public",
   "version": "0.0.0",
   "description": "Put things in places for great justice.",
+  "repository": "https://github.com/mozilla/moz-corsica",
   "scripts": {
-    "start": "node node_modules/corsica/index.js"
+    "start": "node node_modules/corsica/index.js",
+    "test": "./script/cibuild"
   },
   "dependencies": {
     "forever": "0.10.11",

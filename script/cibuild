@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+libexec=$(dirname "$0")
+
+echo "--> bootstrap:"
+"$libexec/bootstrap" "$@"
+
+echo "--> tests:"
+"$libexec/tests" "$@"
