@@ -1,7 +1,12 @@
 moz-corsica
 ===========
 
-DOCS TODO:
+Public Corsica instance for Mozilla office and home offices. Use Pull Requests to suggest new content.
+
+
+TODO:
+
 1. overview
 2. how to contribute
-3. where does it live?
+3. content guide
+4. put all this in a wiki maybe?
