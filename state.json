@@ -10,7 +10,6 @@
         "name": "ambient",
         "commands": [
           "gslide comment=\"Jim Cook's WPR facts\" id=1wXHtOeQ8sMirT514lmwHXu_J93q9QviMvZOp6Kx6qfs",
-          "content type=html content=\"<iframe style='position: absolute; top: 0; left: 0; width: 66.666%; height: 66.666%; transform-origin: 0 0; transform: scale(1.5); border: 0;' src='http://embraceopen.postano.com'>\"",
           "rss url=https://air.mozilla.org/feed/corsica2/public/webm item=0",
           "http://mozilla.github.io/referral-board/",
           "http://charts.mozilla.org/ffos/blockers.html#responsibility=FFOS_Team",
@@ -24,7 +23,8 @@
         "name": "airmo",
         "commands": [
           "http://people.mozilla.org/~rmilewski/airmo/calendar/slide.html",
-          "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
+          "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random",
+          "https://platform.postano.com/display/6xjt"
         ]
       },
       {
