@@ -14,6 +14,7 @@
     "corsica-xkcd": "0.3.0",
     "corsica-rss": "0.1.0",
     "corsica-video": "0.1.1",
+    "corsica-mozfund": "1.0.0",
     "winston": "0.7.2",
     "corsica-irc": "0.3.0",
     "corsica-martell": "0.1.0",
