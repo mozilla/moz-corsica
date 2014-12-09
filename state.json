@@ -2,7 +2,15 @@
   "settings::timer": {
     "resetTime": 120000,
     "jitter": 15000,
-    "resetOnConnect": true
+    "resetOnConnect": true,
+    "screens": {
+      "pdx-ambient1": {
+        "resetTime": 3600000
+      },
+      "pdx-ambient2": {
+        "resetTime": 3600000
+      }
+    }
   },
   "settings::tags": {
     "tags": [
@@ -51,6 +59,12 @@
         "commands": [
           "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla Mountain View&color=#E66000'>\"",
           "http://bits.potch.me/fx10.png"
+        ]
+      },
+      {
+        "name": "pdx-eng",
+        "commands": [
+          "http://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\""
         ]
       }
     ]
