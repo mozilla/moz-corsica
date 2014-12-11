@@ -5,10 +5,12 @@
     "resetOnConnect": true,
     "screens": {
       "pdx-ambient1": {
-        "resetTime": 3600000
+        "resetTime": 1800000,
+        "jitter""" 900000
       },
       "pdx-ambient2": {
-        "resetTime": 3600000
+        "resetTime": 1800000,
+        "jitter""" 900000
       }
     }
   },
@@ -65,7 +67,10 @@
       {
         "name": "pdx-eng",
         "commands": [
-          "http://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\""
+          "http://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\"",
+          "https://assets.mozilla.org/Brands-Logos/Firefox/logo-only/firefox_logo-only_RGB.png bg=#eee",
+          "http://i.imgur.com/HuyRINU.png bg=#e2e2e2 comment=\"Mozilla <3\"",
+          "http://i.imgur.com/ns5T4de.png comment=\"Firefox Nightly logo, 16:9 version\""
         ]
       }
     ]
