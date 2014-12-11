@@ -6,11 +6,11 @@
     "screens": {
       "pdx-ambient1": {
         "resetTime": 1800000,
-        "jitter""" 900000
+        "jitter": 900000
       },
       "pdx-ambient2": {
         "resetTime": 1800000,
-        "jitter""" 900000
+        "jitter": 900000
       }
     }
   },
