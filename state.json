@@ -51,11 +51,10 @@
           "content type=html content=\"<body style='background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png) no-repeat center,linear-gradient(to right,red 0%,orange 20vw,yellow 40vw,#0f0 60vw, blue 80vw, violet 100vw);height:100%;background-size: 90vh,cover;margin:0'></body>\"",
           "http://people.mozilla.org/~mbrubeck/needs.png bg=#fff",
           "https://dl.dropboxusercontent.com/u/105227/Screen%20Shot%202014-04-17%20at%2010.47.44%20AM.png",
-          "http://www.haneke.net/",
+          "http://xor.lonnen.com/haneke-2/",
           "http://xor.lonnen.com/2048-AI",
           "http://random-octodex.herokuapp.com/random bg=#fff",
-          "http://www.google.com/trends/hottrends/visualize?nrow=3&ncol=3",
-          "http://i.imgur.com/meSpb2d.gif"
+          "http://www.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
         ]
       },
       {
