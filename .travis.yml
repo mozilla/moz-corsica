@@ -5,7 +5,7 @@ node_js:
 deploy:
   provider: heroku
   api_key:
-    secure: nySdhyaSci1fZKx8PWDt1UZtrm2OAkiZiR/+w/n3gq0X+OnsMOnyWbn7cuEUd3VvM8pmSqmLG/hLsNBzX0rHruW/UrSTYmfVkzzjHNE4sAj6XZTd3MjU/WwwOpDdWvN+s0K4hwy+47FiR59Y0kDKv5AIBAWOd5nfQV+1IXnHeQs=
+    secure: CQEO0D6y4uX3HAYFNT+Wh8zQ1bk2ajrJrCJC+lD/Evtq1RGoZdTmAoKQ1Qmp00W5Rk8qmme2nqQl22UMeIgrTZIZCx8TYLuBkiD3KKgL2LQ3HWK0pI0SCgHw3OOU6FVKq5O1vpu0wf4oQNtdwV4PLBlsnptCJqcD1c7EocXEb9k=
   app: moz-corsica
   on:
     repo: mozilla/moz-corsica
