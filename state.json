@@ -68,7 +68,7 @@
       {
         "name": "servicedesk",
         "commands": [
-          "http://https://status.mozilla.org/"
+          "https://status.mozilla.org/"
         ]
       }
     ]
