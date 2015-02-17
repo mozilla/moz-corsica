@@ -8,13 +8,11 @@ Public Corsica instance for Mozilla office and home offices. Use Pull Requests t
 Connecting a Client
 -------------------
 
-Once you connect to `corsica.mozilla.io`, you should see the Corsica logo (C with a lightning bolt). Open the browser console and run the following commands, substituting the values as necessary for your installation:
+Navigate to `corsica.mozilla.io` in your web browser and you should see the Corsica logo (C with a lightning bolt). Now open the web console (Tools-> Web Developer-> Web Console) and run the following command, substituting the values in the tags array as necessary for your desired screen content (see state.json for options):
 
-    config.name = "location#";
-    config.tags = ["ambient", "whimsy"];
-    writeConfig();
+    config.name = "location#"; config.tags = ["ambient", "whimsy"]; writeConfig();
 
-Refresh the page and you should be recieving content destined for those tags or that specific name.
+Refresh the page and you should start recieving content destined for those tags.  Now go to fullscreen and enjoy!
 
 TODO:
 
