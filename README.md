@@ -8,11 +8,13 @@ Public Corsica instance for Mozilla office and home offices. Use Pull Requests t
 Connecting a Client
 -------------------
 
-Navigate to `corsica.mozilla.io` in your web browser and you should see the Corsica logo (C with a lightning bolt). Now open the web console (Tools-> Web Developer-> Web Console) and run the following command, substituting the values in the tags array as necessary for your desired screen content (see state.json for options):
+Navigate to `corsica.mozilla.io` in your web browser and you should see the Corsica logo (C with a lightning bolt). Now open the Web Console (Tools-> Web Developer-> Web Console) and run the following command:
 
-    config.name = "location#"; config.tags = ["ambient", "whimsy"]; writeConfig();
+    config.name = "location"; config.tags = ["ambient", "whimsy"]; writeConfig();
 
-Refresh the page and you should start recieving content destined for those tags.  Now go to fullscreen and enjoy!
+Name/Tags Config: For the tag options the state.json file in this repo contains several groupings of urls tagged for various purposes. Most office displays are set to at least "ambient" but since "whimsy" is fun to have in the mix it's used in this example. You can replace "location" with any unique name (eg: "abby-laptop"), the names in the state.json file (eg: "pdx-ambient1") are intended for addressing multiple screens in a location.  
+
+After you writeConfig(); you'll see the result displayed as 'undefined' and at that point reload the page. You should now start recieving content destined for the tags you set.  Go into fullscreen and enjoy!
 
 TODO:
 
