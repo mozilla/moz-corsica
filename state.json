@@ -20,7 +20,6 @@
         "name": "ambient",
         "commands": [
           "gslide comment=\"David Slater's Slides\" id=1Vx-0mvDsN9W2vOcdFtVUwJK2ybhePKAYVJkp1koaBAA",
-          "gslide comment=\"Jim Cook's WPR facts\" id=1wXHtOeQ8sMirT514lmwHXu_J93q9QviMvZOp6Kx6qfs",
           "rss url=https://air.mozilla.org/feed/corsica2/public/webm item=0",
           "http://mozilla.github.io/referral-board/",
           "http://blog.seanmartell.com/wp-content/uploads/2013/09/dinosaur.png bg=#e4e4e4",
