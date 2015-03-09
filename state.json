@@ -71,6 +71,15 @@
         "commands": [
           "https://status.mozilla.org/"
         ]
+      },
+      {
+        "name": "tor",
+        "commands": [
+          "http://yyz-conf-free.paas.allizom.org/",
+          "http://yyz-conf-free.paas.allizom.org/list",
+          "http://departures.moo.mx/index.html#mozilla-toronto",
+          "http://forecast.io/#/f/43.6474,-79.3942"
+        ]
       }
     ]
   }
