@@ -82,5 +82,9 @@
         ]
       }
     ]
+  },
+  "settings::corsica-irc": {
+    "server": "irc.mozilla.org",
+    "channels": ["#mozpdx"]
   }
 }
