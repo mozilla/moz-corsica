@@ -2,10 +2,3 @@ sudo: no
 language: node_js
 node_js:
 - '0.10'
-deploy:
-  provider: heroku
-  api_key:
-    secure: CQEO0D6y4uX3HAYFNT+Wh8zQ1bk2ajrJrCJC+lD/Evtq1RGoZdTmAoKQ1Qmp00W5Rk8qmme2nqQl22UMeIgrTZIZCx8TYLuBkiD3KKgL2LQ3HWK0pI0SCgHw3OOU6FVKq5O1vpu0wf4oQNtdwV4PLBlsnptCJqcD1c7EocXEb9k=
-  app: moz-corsica
-  on:
-    repo: mozilla/moz-corsica
