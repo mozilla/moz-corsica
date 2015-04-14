@@ -54,7 +54,8 @@
         "commands": [
           "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla Mountain View&color=#E66000'>\"",
           "http://moz-menu-mv.herokuapp.com/",
-          "http://moz-chargers.herokuapp.com/"
+          "http://moz-chargers.herokuapp.com/",
+          "https://moz-commute.herokuapp.com/"
         ]
       },
       {
