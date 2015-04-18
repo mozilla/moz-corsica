@@ -17,7 +17,7 @@ Navigate to `corsica.mozilla.io` in your web browser and you should see the Cors
 config.name = "location"; config.tags = ["ambient", "whimsy"]; writeConfig();
 ```
 
-**Refresh the pag**e in your browser. Congrats! You should now start receiving content destined for the tags you set.  Go into fullscreen (type `f`) and enjoy!
+**Refresh the page** in your browser. Congrats! You should now start receiving content destined for the tags you set.  Go into fullscreen (type `f`) and enjoy!
 
 ### About the Name and Tag config options ###
 
