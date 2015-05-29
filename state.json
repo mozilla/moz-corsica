@@ -27,15 +27,15 @@
           "http://nickdesaulniers.github.io/where-is-firefox-os/",
           "http://whattrainisitnow.com/",
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
+          "https://dl.dropboxusercontent.com/u/105227/june2firefox.png"
           "martell"
         ]
       },
       {
         "name": "airmo",
         "commands": [
-          "http://people.mozilla.org/~rmilewski/airmo/calendar/slide.html",
           "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random",
-          "https://platform.postano.com/display/6xjt"
+          "http://people.mozilla.org/~jlin/ambient/FFx_Campaign-Teaser_1920x1080_Render-Orange_1.mp4"
         ]
       },
       {
