@@ -99,7 +99,8 @@
           "http://yyz-conf-free.paas.allizom.org/",
           "http://yyz-conf-free.paas.allizom.org/list",
           "http://departures.moo.mx/index.html#mozilla-toronto",
-          "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla Toronto&units=ca&color=#E66000'>\""
+          "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla Toronto&units=ca&color=#E66000'>\"",
+          "http://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif"
         ]
       }
     ]
