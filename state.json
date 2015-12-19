@@ -19,6 +19,7 @@
       {
         "name": "ambient",
         "commands": [
+          "gslide comment=\"WPR Slides\" id=1_HvWukgSKmHFvmX2zTb4D3DJ8B3bBC5IGNeAs2pVsXM",
           "gslide comment=\"Lindsay Kenzig's UX Slides\" id=1nxgEbfoCRDcqjk9CusBW7_Nh5qiS6fJuDld10mcbM4M",
           "http://nickdesaulniers.github.io/where-is-firefox-os/",
           "https://whats-shipping.herokuapp.com/dashboard",
