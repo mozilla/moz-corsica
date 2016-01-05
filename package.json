@@ -1,6 +1,6 @@
 {
   "name": "corsica-public",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Put things in places for great justice.",
   "repository": "https://github.com/mozilla/moz-corsica",
   "scripts": {
