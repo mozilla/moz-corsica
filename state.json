@@ -97,7 +97,8 @@
       {
         "name": "platform",
         "commands": [
-          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxrel"
+          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxrel zoom=200",
+          "http://graphs.mozilla.org/graph.html#tests=[[82,94,35]]&sel=none&displayrange=365&datatype=geo zoom=200"
         ]
       },
       {
