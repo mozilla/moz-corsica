@@ -95,6 +95,12 @@
         ]
       },
       {
+        "name": "platform",
+        "commands": [
+          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxrel"
+        ]
+      },
+      {
         "name": "servicedesk",
         "commands": [
           "https://status.mozilla.org/"
