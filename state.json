@@ -104,10 +104,10 @@
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?andbeta zoom=200",
           "https://docs.google.com/spreadsheets/d/1-IHoas3yLl--s_VTIin6e3hwwHZPuBWpTG_x-CCCmR4/pubhtml?gid=1851324103&single=true zoom=250",
           "people.mozilla.org/~klahnakoski/platform/releases.html#",
-          "http://lmandel.github.io/ReleaseHealth/?channel=nightly",
-          "http://lmandel.github.io/ReleaseHealth/?channel=aurora",
-          "http://lmandel.github.io/ReleaseHealth/?channel=beta",
-          "http://lmandel.github.io/ReleaseHealth/?channel=release"
+          "http://lmandel.github.io/ReleaseHealth/?channel=nightly&display=bigscreen",
+          "http://lmandel.github.io/ReleaseHealth/?channel=aurora&display=bigscreen",
+          "http://lmandel.github.io/ReleaseHealth/?channel=beta&display=bigscreen",
+          "http://lmandel.github.io/ReleaseHealth/?channel=release&display=bigscreen"
         ]
       },
       {
