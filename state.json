@@ -21,7 +21,7 @@
         "commands": [
           "gslide comment=\"Lindsay Kenzig's UX Slides\" id=1nxgEbfoCRDcqjk9CusBW7_Nh5qiS6fJuDld10mcbM4M",
           "gslide comment=\"10 years Slides\" id=1RHfhmU0u2kdYnGQ10u-9Ag21oXiXFTdWMKz2GtDb7Mk",
-          "glside comment=\"Speaker Series\" id=1DpRiz5Tq5HA5cvsqSBHQHfRIHHPh8QYERjuaQ-5EBZs",
+          "gslide comment=\"Speaker Series\" id=1DpRiz5Tq5HA5cvsqSBHQHfRIHHPh8QYERjuaQ-5EBZs",
           "https://whats-shipping.herokuapp.com/dashboard",
           "https://moz-webqa.herokuapp.com/",
           "https://moz-referrals.herokuapp.com/",
