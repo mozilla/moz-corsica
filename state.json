@@ -26,10 +26,8 @@
           "https://moz-webqa.herokuapp.com/",
           "https://moz-referrals.herokuapp.com/",
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
-          "http://lmandel.github.io/ReleaseHealth/?channel=nightly&display=bigscreen",
           "http://lmandel.github.io/ReleaseHealth/?channel=aurora&display=bigscreen",
           "http://lmandel.github.io/ReleaseHealth/?channel=beta&display=bigscreen",
-          "http://lmandel.github.io/ReleaseHealth/?channel=release&display=bigscreen",
           "https://arewestableyet.com/office zoom=160",
           "martell",
           "https://plot.ly/~letsencrypt/9.embed zoom=200"
