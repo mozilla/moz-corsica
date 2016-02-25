@@ -90,7 +90,6 @@
               "http://www.ratp.fr/informer/trafic/trafic.php",
               "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=48.87213879999999&lon=2.3411542000000054&name=Mozilla%20Paris&color=#E66000&units=ca'>\"",
               "http://m.sytadin.fr/",
-              "http://elitede.paris/",
               "http://vianavigo.com/fr/actualites-trafic/",
               "http://people.mozilla.org/~sledru/station.html"
         ]
