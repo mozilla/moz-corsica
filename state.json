@@ -57,7 +57,7 @@
       {
         "name": "moc2",
         "commands": [
-          "https://status.mozilla.org/ zoom=200"
+          "https://status.mozilla.org/ zoom=150"
         ]
       },
       {
