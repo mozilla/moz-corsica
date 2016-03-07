@@ -11,6 +11,14 @@
       "pdx-ambient2": {
         "resetTime": 1200000,
         "jitter": 600000
+      },
+      "moc1": {
+        "resetTime": 1200000,
+        "jitter": 600000
+      },
+      "moc3": {
+        "resetTime": 1200000,
+        "jitter": 600000
       }
     }
   },
