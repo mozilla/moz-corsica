@@ -118,7 +118,8 @@
           "http://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen",
           "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen",
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen",
-          "http://mozilla.github.io/releasehealth/?channel=release&display=bigscreen"
+          "http://mozilla.github.io/releasehealth/?channel=release&display=bigscreen",
+          "https://secure.pub.build.mozilla.org/builddata/reports/reportor/daily/highscores/highscores.html"
         ]
       },
       {
