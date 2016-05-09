@@ -29,11 +29,11 @@
         "commands": [
           "gslide comment=\"10 years Slides\" id=1RHfhmU0u2kdYnGQ10u-9Ag21oXiXFTdWMKz2GtDb7Mk",
           "https://whats-shipping.herokuapp.com/dashboard",
-          "https://moz-webqa.herokuapp.com/",
+          "https://moz-webqa.herokuapp.com/ comment=\"WebQA Build Status\"",
           "https://moz-referrals.herokuapp.com/",
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
-          "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen",
-          "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen",
+          "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen comment=\"Aurora Blockers\"",
+          "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=mozilla-inbound zoom=150",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team zoom=150",
           "martell",
@@ -50,7 +50,7 @@
       {
         "name": "whimsy",
         "commands": [
-          "content type=html content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
+          "content type=html comment=\"Whimsycorn\" content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
           "http://xor.lonnen.com/haneke-2/",
           "http://micropipes.com/temp/",
           "http://www.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
@@ -71,9 +71,9 @@
       {
         "name": "mtv",
         "commands": [
-          "http://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300",
-          "http://moz-menu-mv.herokuapp.com/",
-          "https://moz-commute.herokuapp.com/"
+          "http://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
+          "http://moz-menu-mv.herokuapp.com/ comment=\"MV Lunch Menu\"",
+          "https://moz-commute.herokuapp.com/ comment=\"MV Traffic & Transit\""
         ]
       },
       {
