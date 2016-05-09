@@ -28,7 +28,6 @@
         "name": "ambient",
         "commands": [
           "gslide comment=\"10 years Slides\" id=1RHfhmU0u2kdYnGQ10u-9Ag21oXiXFTdWMKz2GtDb7Mk",
-          "gslide comment=\"Speaker Series\" id=1HCiYnb3j9o1K0kqrqlXnRZTv3izpOzX2VoO-A-lVR-g",
           "https://whats-shipping.herokuapp.com/dashboard",
           "https://moz-webqa.herokuapp.com/",
           "https://moz-referrals.herokuapp.com/",
