@@ -111,9 +111,8 @@
       {
         "name": "platform",
         "commands": [
-          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxrel zoom=200",
+          "https://health.graphics/crashes",
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxbeta zoom=200",
-          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?andrel zoom=200",
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?andbeta zoom=200",
           "https://docs.google.com/spreadsheets/d/1-IHoas3yLl--s_VTIin6e3hwwHZPuBWpTG_x-CCCmR4/pubhtml?gid=1851324103&single=true zoom=250",
           "https://docs.google.com/spreadsheets/d/1qC087ESFaqtuMiJmsGBrupeHSznv_dSOfM4xK_rdrSQ/pubchart?oid=1397206677&format=interactive zoom=250",
