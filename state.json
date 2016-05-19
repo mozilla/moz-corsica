@@ -28,6 +28,7 @@
         "name": "ambient",
         "commands": [
           "gslide comment=\"10 years Slides\" id=1RHfhmU0u2kdYnGQ10u-9Ag21oXiXFTdWMKz2GtDb7Mk",
+          "http://mozilla.github.io/signage/london-2016_steampunk_1080p.png comment=\"Party Sign\""
           "https://whats-shipping.herokuapp.com/dashboard",
           "https://moz-webqa.herokuapp.com/ comment=\"WebQA Build Status\"",
           "https://moz-referrals.herokuapp.com/",
@@ -111,7 +112,7 @@
       {
         "name": "platform",
         "commands": [
-          "https://health.graphics/crashes",
+          "https://health.graphics/crashes zoom=150",
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxbeta zoom=200",
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?andbeta zoom=200",
           "https://docs.google.com/spreadsheets/d/1-IHoas3yLl--s_VTIin6e3hwwHZPuBWpTG_x-CCCmR4/pubhtml?gid=1851324103&single=true zoom=250",
