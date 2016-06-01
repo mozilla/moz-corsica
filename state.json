@@ -116,8 +116,6 @@
           "https://health.graphics/crashes zoom=150",
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxbeta zoom=200",
           "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?andbeta zoom=200",
-          "https://docs.google.com/spreadsheets/d/1-IHoas3yLl--s_VTIin6e3hwwHZPuBWpTG_x-CCCmR4/pubhtml?gid=1851324103&single=true zoom=250",
-          "https://docs.google.com/spreadsheets/d/1qC087ESFaqtuMiJmsGBrupeHSznv_dSOfM4xK_rdrSQ/pubchart?oid=1397206677&format=interactive zoom=250",
           "people.mozilla.org/~klahnakoski/platform/releases.html#",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=mozilla-inbound",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team",
