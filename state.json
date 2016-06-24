@@ -27,7 +27,6 @@
       {
         "name": "ambient",
         "commands": [
-          "gslide comment=\"10 years Slides\" id=1RHfhmU0u2kdYnGQ10u-9Ag21oXiXFTdWMKz2GtDb7Mk",
           "gslide comment=\"view source 2016\" id=1g9m6sVnQhiAjKAyFmtTKHIF6YfTmZJiHHtUWHMaG9lw",
           "http://mozilla.github.io/signage/london-2016_steampunk_1080p.png comment=\"Party Sign\"",
           "https://whats-shipping.herokuapp.com/dashboard",
@@ -38,7 +37,6 @@
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=mozilla-inbound zoom=150",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team zoom=150",
-          "martell",
           "https://plot.ly/~letsencrypt/9.embed zoom=200"
         ]
       },
@@ -61,8 +59,7 @@
           "content type=html comment=\"Whimsycorn\" content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
           "http://xor.lonnen.com/haneke-2/",
           "http://micropipes.com/temp/",
-          "http://www.google.com/trends/hottrends/visualize?nrow=3&ncol=3",
-          "gslide id=1_xRSEoULN_YrCwtW07gylFwODRyVyZM2lIdveGittOo"
+          "http://www.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
         ]
       },
       {
