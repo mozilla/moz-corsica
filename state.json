@@ -78,8 +78,8 @@
         "commands": [
           "http://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
           "http://moz-menu-mv.herokuapp.com/ comment=\"MV Lunch Menu\"",
-          "https://moz-commute.herokuapp.com/ comment=\"MV Traffic & Transit\""
-          "https://justinpotts.github.io/arewesortedyet"
+          "https://moz-commute.herokuapp.com/ comment=\"MV Traffic & Transit\"",
+          "https://justinpotts.github.io/arewesortedyet/ comment=\"Ball Pit Color Sort Status\""
         ]
       },
       {
