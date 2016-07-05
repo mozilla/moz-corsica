@@ -36,7 +36,9 @@
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=mozilla-inbound zoom=150",
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team zoom=150",
-          "https://plot.ly/~letsencrypt/9.embed zoom=200"
+          "https://plot.ly/~letsencrypt/9.embed zoom=200",
+          "http://mozilla.github.io/signage/Slide1.png comment=\"Testing Posters\"",
+          "http://mozilla.github.io/signage/Slide2.png comment=\"Testing Posters\""
         ]
       },
       {
