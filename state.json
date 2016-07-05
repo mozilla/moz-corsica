@@ -27,7 +27,7 @@
       {
         "name": "ambient",
         "commands": [
-          "gslide comment=\"view source 2016\" id=1g9m6sVnQhiAjKAyFmtTKHIF6YfTmZJiHHtUWHMaG9lw",
+          "gslide comment=\"view source 2016\" id=1g9m6sVnQhiAjKAyFmtTKHIF6YfTmZJiHHtUWHMaG9lw slide=0",
           "https://whats-shipping.herokuapp.com/dashboard",
           "https://moz-webqa.herokuapp.com/ comment=\"WebQA Build Status\"",
           "https://moz-referrals.herokuapp.com/",
