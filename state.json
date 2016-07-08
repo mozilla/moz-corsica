@@ -114,11 +114,9 @@
         "name": "platform",
         "commands": [
           "https://health.graphics/crashes zoom=150",
-          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?fxbeta zoom=200",
-          "https://crash-analysis.mozilla.com/rkaiser/crash-report-tools/longtermgraph/?andbeta zoom=200",
+          "https://health.graphics/crashes/beta zoom=150",
+          "https://health.graphics/status zoom=120",
           "people.mozilla.org/~klahnakoski/platform/releases.html#",
-          "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=mozilla-inbound",
-          "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team",
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen",
           "http://mozilla.github.io/releasehealth/?channel=release&display=bigscreen"
         ]
