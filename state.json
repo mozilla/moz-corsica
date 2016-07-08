@@ -38,8 +38,7 @@
           "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team zoom=150",
           "https://plot.ly/~letsencrypt/9.embed zoom=200",
           "https://www.flickr.com/photos/134774698@N08/sets/72157670659522255 bg=#000000",
-          "http://mozilla.github.io/signage/Slide1.png comment=\"Testing Posters\"",
-          "http://mozilla.github.io/signage/Slide2.png comment=\"Testing Posters\""
+          "http://mozilla.github.io/signage/posters.html comment=\"Testing Posters\""
         ]
       },
       {
