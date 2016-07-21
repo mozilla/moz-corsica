@@ -34,8 +34,6 @@
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
           "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen comment=\"Aurora Blockers\"",
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
-          "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=mozilla-inbound zoom=150",
-          "https://futurama.theautomatedtester.co.uk/treebackouts.html?tree=fx-team zoom=150",
           "https://plot.ly/~letsencrypt/9.embed zoom=200",
           "https://www.flickr.com/photos/134774698@N08/sets/72157670659522255 bg=#000000",
           "http://mozilla.github.io/signage/posters.html comment=\"Testing Posters\""
