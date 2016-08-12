@@ -1,6 +1,6 @@
 {
   "settings::timer": {
-    "resetTime": 120000,
+    "resetTime": 120001,
     "jitter": 15000,
     "resetOnConnect": true,
     "screens": {
