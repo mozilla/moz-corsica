@@ -4,14 +4,6 @@
     "jitter": 15000,
     "resetOnConnect": true,
     "screens": {
-      "pdx-ambient1": {
-        "resetTime": 300000,
-        "jitter": 60000
-      },
-      "pdx-ambient2": {
-        "resetTime": 300000,
-        "jitter": 60000
-      },
       "moc1": {
         "resetTime": 1200000,
         "jitter": 600000
