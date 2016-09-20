@@ -24,7 +24,7 @@
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
           "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen comment=\"Aurora Blockers\"",
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
-          "https://plot.ly/~letsencrypt/9.embed zoom=200",
+          "https://letsencrypt.org/stats-dashboard/",
           "http://mozilla.github.io/signage/posters.html comment=\"Testing Posters\"",
           "gslide id=1OPr5oQA9QFFyY1BaHAw53GfDiYr7aiViGvk63kuZDXg comment=\"WPR Facts!\""
         ]
