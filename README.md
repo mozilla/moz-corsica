@@ -19,10 +19,10 @@ Connecting a Client
 
 Navigate to `corsica.mozilla.io` in your web browser and you should see the Corsica logo (C with a lightning bolt) and a message saying "I am *a name*". File an issue on this repository or email the maintainers directly with the following:
 
-[ ] the name of the screen
-[ ] where it's physically located
-[ ] what content should be on it
-[ ] any other special requests
+- [ ] the name of the screen
+- [ ] where it's physically located
+- [ ] what content should be on it
+- [ ] any other special requests
 
 and we can remotely configure the screen.
 
