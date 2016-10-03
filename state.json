@@ -103,7 +103,6 @@
         "commands": [
           "https://health.graphics/crashes zoom=150",
           "https://health.graphics/crashes/beta zoom=150",
-          "https://health.graphics/status zoom=120",
           "people.mozilla.org/~klahnakoski/platform/releases.html#",
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen",
           "http://mozilla.github.io/releasehealth/?channel=release&display=bigscreen"
