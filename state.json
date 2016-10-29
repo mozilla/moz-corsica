@@ -125,7 +125,9 @@
       },
       {
         "name": "mozfest",
-        "commands": []
+        "commands": [
+          "https://thimbleprojects.org/thepotch/123375/"
+        ]
       }
     ]
   },
