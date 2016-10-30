@@ -124,6 +124,12 @@
         ]
       },
       {
+        "name": "mozfestation",
+        "commands": [
+           "https://autonome.github.io/mozfestation/"
+        ]
+      },
+      {
         "name": "mozfest",
         "commands": [
           "http://i.imgur.com/8FlFLvS.gifv",
