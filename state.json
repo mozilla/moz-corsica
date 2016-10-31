@@ -91,7 +91,7 @@
           "name": "paris",
           "commands": [
               "http://vianavigo.com/fr/actualites-trafic/",
-              "http://people.mozilla.org/~sledru/station.html"
+              "http://people.mozilla.org/~sledru/station.html zoom=175"
         ]
       },
       {
