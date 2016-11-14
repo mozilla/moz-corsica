@@ -20,7 +20,6 @@
         "name": "ambient",
         "commands": [
           "https://whats-shipping.herokuapp.com/dashboard",
-          "https://moz-webqa.herokuapp.com/ comment=\"WebQA Build Status\"",
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
           "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen comment=\"Aurora Blockers\"",
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
