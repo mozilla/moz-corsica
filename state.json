@@ -137,6 +137,12 @@
           "https://thimbleprojects.org/thepotch/123389/",
           "https://autonome.github.io/mozfestation/"
         ]
+      },
+      {
+        "name": "ldn",
+        "commands": [
+           "https://msmandyc.github.io/Mandymas/"
+        ]
       }
     ]
   },
