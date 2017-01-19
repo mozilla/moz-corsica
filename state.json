@@ -112,7 +112,6 @@
       {
         "name": "servicedesk",
         "commands": [
-          "https://status.mozilla.org/"
         ]
       },
       {
