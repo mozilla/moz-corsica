@@ -31,7 +31,8 @@
           "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://letsencrypt.org/stats-dashboard/ zoom=190",
           "http://mozilla.github.io/signage/posters.html comment=\"Testing Posters\"",
-          "gslide id=1_deLC4RtSmMBLULJNfIv3FwG1QwnL9xkjN62ne4gbVk comment=\"Our Journey\""
+          "gslide id=1_deLC4RtSmMBLULJNfIv3FwG1QwnL9xkjN62ne4gbVk comment=\"Our Journey\"",
+          "http://i.imgur.com/Q9b2SDc.jpg comment=\"Data Classification\""
         ]
       },
       {
@@ -88,7 +89,8 @@
           "http://whattrainisitnow.com/",
           "https://ci.us-west.moz.works/view/Bedrock%20Pipeline/?fullscreen=true",
           "https://p.datadoghq.com/sb/279ea5216-630e79664d?tv_mode=true",
-          "https://arewestableyet.com/office"
+          "https://arewestableyet.com/office",
+          "http://i.imgur.com/Q9b2SDc.jpg comment=\"Data Classification\""
         ]
       },
       {
