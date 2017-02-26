@@ -132,6 +132,10 @@
         ]
       },
       {
+        "name": "tpe",
+        "commands": []
+      },
+      {
         "name": "mozfest",
         "commands": [
           "http://i.imgur.com/8FlFLvS.gifv",
