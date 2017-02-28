@@ -17,12 +17,6 @@
   "settings::tags": {
     "tags": [
       {
-        "name": "brand",
-        "commands": [
-          "https://videos.cdn.mozilla.net/uploads/Videos%20creative/Mozilla-new%20logo.webmhd.webm"
-        ]
-      },
-      {
         "name": "ambient",
         "commands": [
           "https://whats-shipping.herokuapp.com/dashboard",
@@ -113,11 +107,6 @@
         ]
       },
       {
-        "name": "servicedesk",
-        "commands": [
-        ]
-      },
-      {
         "name": "avops",
         "commands": [
           "http://airmozilla-ops1.corpdmz.scl3.mozilla.com/wowza/",
@@ -133,16 +122,7 @@
       },
       {
         "name": "tpe",
-        "commands": []
-      },
-      {
-        "name": "mozfest",
         "commands": [
-          "http://i.imgur.com/8FlFLvS.gifv",
-          "https://i.imgur.com/pwNigfK.gifv",
-          "https://i.imgur.com/rsaKxss.gifv",
-          "https://thimbleprojects.org/thepotch/123389/",
-          "https://autonome.github.io/mozfestation/"
         ]
       }
     ]
