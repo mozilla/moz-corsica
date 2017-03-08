@@ -8,7 +8,7 @@
     "test": "./script/cibuild"
   },
   "dependencies": {
-    "corsica": "1.4.0",
+    "corsica": "2.0.0",
     "corsica-flickr-2": "0.1.4",
     "corsica-google-presentation": "0.2.0",
     "corsica-image": "0.2.1",
