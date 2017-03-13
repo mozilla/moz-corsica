@@ -98,7 +98,7 @@
       {
         "name": "platform",
         "commands": [
-          "https://health.graphics/quantum zoom=150"
+          "https://health.graphics/quantum?r1 zoom=150"
         ]
       },
       {
