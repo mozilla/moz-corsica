@@ -125,6 +125,12 @@
         "name": "tpe",
         "commands": [
         ]
+      },
+      {
+        "name": "ldn",
+        "commands": [
+           "https://msmandyc.github.io/Mandymas/"
+        ]
       }
     ]
   },
