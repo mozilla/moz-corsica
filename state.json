@@ -83,7 +83,7 @@
           "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='http://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland%20%28Celsius%29&color=#E66000&units=ca'>\"",
           "http://i.imgur.com/yhuHkcx.gif",
           "http://whattrainisitnow.com/",
-          "https://ci.us-west.moz.works/view/Bedrock%20Pipeline/?fullscreen=true",
+          "https://jenkins-redirector.us-west.moz.works/bedrock_multibranch_pipeline/prod/",
           "https://p.datadoghq.com/sb/279ea5216-630e79664d?tv_mode=true",
           "https://arewestableyet.com/office",
           "http://i.imgur.com/SsrTV6W.png comment=\"Data Classification\""
