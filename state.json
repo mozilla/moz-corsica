@@ -21,6 +21,8 @@
         "commands": [
           "https://whats-shipping.herokuapp.com/dashboard",
           "http://people.mozilla.org/~klahnakoski/platform/releases.html#",
+          "http://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen comment=\"Aurora Blockers\"",
+          "http://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://letsencrypt.org/stats-dashboard/ zoom=190",
           "https://health.graphics/quantum?r1 zoom=125",
           "http://mozilla.github.io/signage/posters.html comment=\"Testing Posters\"",
