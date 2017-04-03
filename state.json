@@ -33,8 +33,7 @@
       {
         "name": "airmo",
         "commands": [
-          "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random",
-          "http://people.mozilla.org/~jlin/ambient/FFx_Campaign-Teaser_1920x1080_Render-Orange_1.mp4"
+          "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
         ]
       },
       {
