@@ -98,7 +98,6 @@
       {
         "name": "platform",
         "commands": [
-          "https://health.graphics/quantum?r3 zoom=125",
           "https://health.graphics/crashes zoom=150",
           "https://health.graphics/crashes/beta zoom=150",
           "https://health.graphics/quantum/countdown zoom=150",
