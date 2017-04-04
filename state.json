@@ -24,7 +24,6 @@
           "https://mozilla.github.io/releasehealth/?channel=aurora&display=bigscreen comment=\"Aurora Blockers\"",
           "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://letsencrypt.org/stats-dashboard/ zoom=190",
-          "https://health.graphics/quantum?r1 zoom=125",
           "https://mozilla.github.io/signage/posters.html comment=\"Testing Posters\"",
           "gslide id=1_deLC4RtSmMBLULJNfIv3FwG1QwnL9xkjN62ne4gbVk comment=\"Our Journey\"",
           "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\""
