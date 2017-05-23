@@ -45,6 +45,7 @@ You can choose from the following **tags** for your screen:
 * `airmo` (Air Mozilla)
 * `ambient`
 * `mtv` (Mountain View)
+* `paris`
 * `pdx-eng` (Portland Engineering)
 * `servicedesk`
 * `tor` (Toronto)
