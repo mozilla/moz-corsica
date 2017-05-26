@@ -32,8 +32,8 @@
       {
         "name": "et",
         "commands": [
-          "https://potch.github.io/github-graphs/?repo=aframevr/aframe"
-          "https://potch.github.io/github-graphs/?repo=servo/servo"
+          "https://potch.github.io/github-graphs/?repo=aframevr/aframe",
+          "https://potch.github.io/github-graphs/?repo=servo/servo",
           "https://potch.github.io/github-graphs/?repo=rust-lang/rust"
         ]
       },
