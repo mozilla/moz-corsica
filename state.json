@@ -108,7 +108,6 @@
         "commands": [
           "https://health.graphics/crashes zoom=150",
           "https://health.graphics/crashes/beta zoom=150",
-          "https://health.graphics/quantum/countdown zoom=150",
           "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen",
           "https://mozilla.github.io/releasehealth/?channel=release&display=bigscreen"
         ]
