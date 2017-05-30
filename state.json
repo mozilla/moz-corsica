@@ -19,7 +19,7 @@
       {
         "name": "ambient",
         "commands": [
-          "http://www.whattrainisitnow.com",
+          "http://www.whattrainisitnow.com zoom=200",
           "https://people-mozilla.org/~klahnakoski/platform/releases.html#",
           "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
           "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
