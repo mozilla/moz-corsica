@@ -100,9 +100,9 @@
               "https://vianavigo.com/fr/actualites-trafic/",
               "https://people.debian.org/~sylvestre/station.html zoom=175",
               "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg",
-              "http://loremflickr.com/g/1024/768/paris",
-              "http://loremflickr.com/g/1024/768/france",
-              "http://loremflickr.com/g/1024/768/mozilla"
+              "http://loremflickr.com/1024/768/paris",
+              "http://loremflickr.com/1024/768/france",
+              "http://loremflickr.com/1024/768/mozilla"
         ]
       },
       {
