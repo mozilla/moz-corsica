@@ -26,7 +26,6 @@
           "https://letsencrypt.org/stats-dashboard/ zoom=190",
           "https://mozilla.github.io/signage/posters.html comment=\"Testing Posters\"",
           "gslide id=1_deLC4RtSmMBLULJNfIv3FwG1QwnL9xkjN62ne4gbVk comment=\"Our Journey\"",
-          "gslide id=1DsrNiu9l13vQpTOmp7HEYpv0Wu9Wp5cO_T4eghg2RBM end=2017-06-13 comment=\"june speaker series\"",
           "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
           "http://moz-telemetry-dashboard.herokuapp.com/evolution.html?SSL_FRACTION zoom=250 comment=\"Telemetry Graphs\""
         ]
