@@ -50,6 +50,9 @@ You can choose from the following **tags** for your screen:
 * `servicedesk`
 * `tor` (Toronto)
 * `whimsy` (Fun things!)
+* `ldn` (London)
+* `yvr` (Vancouver)
+* `tpe` (Taipei)
 
 Most office displays are set to at least `ambient`, and often also `whimsy`.
 
