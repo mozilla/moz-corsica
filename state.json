@@ -134,6 +134,24 @@
         ]
       },
       {
+        "name": "tpe-lab",
+        "commands": [
+          "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows8-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows8-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows8-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows8-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows8-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows8-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows10-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows10-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows10-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows10-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows10-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows10-64_set.html",
+          "https://mozilla-twqa.github.io/Hasal_dashboard/daily_progress_all.html"
+        ]
+      },
+      {
         "name": "ldn",
         "commands": [
         ]
