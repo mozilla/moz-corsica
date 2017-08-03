@@ -27,7 +27,9 @@
           "gslide id=1_deLC4RtSmMBLULJNfIv3FwG1QwnL9xkjN62ne4gbVk comment=\"Our Journey\"",
           "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
           "http://moz-telemetry-dashboard.herokuapp.com/evolution.html?SSL_FRACTION zoom=250 comment=\"Telemetry Graphs\"",
-          "https://health.graphics/quantum?full=1 zoom=150"
+          "gslide comment=\"july\" to=2017-07-18 id=1OP0gIG7nmjhAGvpm8E-9fchbVYJHcQNng5D2dG6bypU",
+          "https://health.graphics/quantum?full=1 zoom=150",
+          "https://andymckay.github.io/mozilla-strava/"
         ]
       },
       {
