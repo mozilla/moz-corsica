@@ -29,7 +29,7 @@
           "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
           "http://moz-telemetry-dashboard.herokuapp.com/evolution.html?SSL_FRACTION zoom=250 comment=\"Telemetry Graphs\"",
           "gslide comment=\"july\" to=2017-07-18 id=1OP0gIG7nmjhAGvpm8E-9fchbVYJHcQNng5D2dG6bypU",
-          "https://health.graphics/quantum?full=1 zoom=175",
+          "https://health.graphics/quantum?full=1 zoom=150",
           "https://andymckay.github.io/mozilla-strava/"
         ]
       },
