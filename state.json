@@ -29,7 +29,7 @@
           "http://moz-telemetry-dashboard.herokuapp.com/evolution.html?SSL_FRACTION zoom=250 comment=\"Telemetry Graphs\"",
           "gslide comment=\"sep\" to=2017-09-15 id=1oMlW2X2WsW5rD9mcYI7E98ad0cYFQCEeqWngu54yN6Y",
           "https://health.graphics/quantum?full=1 zoom=150",
-          "https://andymckay.github.io/mozilla-strava/"
+          "https://andymckay.github.io/mozilla-strava/ zoom=200"
         ]
       },
       {
