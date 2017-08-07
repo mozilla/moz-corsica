@@ -53,6 +53,7 @@ You can choose from the following **tags** for your screen:
 * `ldn` (London)
 * `yvr` (Vancouver)
 * `tpe` (Taipei)
+* `tpe-lab` (Taipei Hasal Lab)
 
 Most office displays are set to at least `ambient`, and often also `whimsy`.
 
