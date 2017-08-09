@@ -162,6 +162,7 @@
       {
         "name": "berlin",
         "commands": [
+          "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\""
         ]
       }
     ]
