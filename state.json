@@ -98,7 +98,7 @@
       {
           "name": "paris",
           "commands": [
-              "https://vianavigo.com/fr/actualites-trafic/",
+              "https://www.vianavigo.com/infos-trafic/lignes",
               "https://people.debian.org/~sylvestre/station.html zoom=175",
               "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg",
               "http://loremflickr.com/1024/768/mozilla"
