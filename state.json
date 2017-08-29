@@ -165,6 +165,12 @@
           "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
           "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\""
         ]
+      },
+      {
+        "name": "berlin-fun",
+        "commands": [
+          "http://i.imgur.com/xQeUIME.jpg"
+        ]
       }
     ]
   },
