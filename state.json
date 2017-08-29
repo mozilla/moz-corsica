@@ -23,6 +23,7 @@
           "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
           "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://mozilla.github.io/triage-summary/ comment=\"Triage Status\"",
+          "https://mozilla.github.io/triage-stale/ comment=\"Stale Bugs\"",
           "https://letsencrypt.org/stats-dashboard/ zoom=190",
           "gslide id=1_deLC4RtSmMBLULJNfIv3FwG1QwnL9xkjN62ne4gbVk comment=\"Our Journey\"",
           "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
