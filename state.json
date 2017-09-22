@@ -160,6 +160,7 @@
       {
         "name": "yvr",
         "commands": [
+          "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
         ]
       },
       {
