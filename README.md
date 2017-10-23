@@ -34,7 +34,7 @@ config.tags = ["ambient"];
 writeConfig();
 ```
 
-**Refresh the page** in your browser. Congrats! You should see it identify as the name you set, and start receiving content destined for the tags.  Go into fullscreen mode (type `f`) and enjoy!
+**Refresh the page** in your browser. Congrats! You should see it identified as the name you set, and start receiving content destined for the tags.  Go into fullscreen mode (type `f`) and enjoy!
 
 ### About the Name and Tag config options ###
 
@@ -68,3 +68,7 @@ Bootstrap the development environment by running `script/bootstrap`.
 
 Start a local HTTP server by running `node node_modules/corsica/index.js`.
 Then, connect to the server at the address listed.
+
+---
+
+<img src="https://avatars2.githubusercontent.com/u/131524?s=200&v=4" width="50"></img>
