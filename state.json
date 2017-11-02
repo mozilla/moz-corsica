@@ -76,8 +76,8 @@
         "name": "mtv",
         "commands": [
           "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
-          "https://moz-menu-mv.herokuapp.com/ comment=\"MV Lunch Menu\"",
-          "https://moz-commute.herokuapp.com/ comment=\"MV Traffic & Transit\""
+          "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
+          "https://moz-commute.glitch.me/ comment=\"MV Traffic & Transit\""
         ]
       },
       {
