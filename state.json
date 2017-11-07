@@ -19,7 +19,7 @@
       {
         "name": "ambient",
         "commands": [
-          "http://www.whattrainisitnow.com zoom=200",
+          "https://www.whattrainisitnow.com/?tv",
           "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
           "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjdFWWXO2jhsA9wQMK2LVp9h7AALp5tjNK37b7OUys6XkIemzzeCijogdoW1Q-HfAZCbKo5jmVp_Tb/pubchart?oid=360681917&format=interactive zoom=300 comment=\"57 Burndown\"",
