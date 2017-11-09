@@ -23,6 +23,7 @@
           "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
           "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
           "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjdFWWXO2jhsA9wQMK2LVp9h7AALp5tjNK37b7OUys6XkIemzzeCijogdoW1Q-HfAZCbKo5jmVp_Tb/pubchart?oid=360681917&format=interactive zoom=300 comment=\"57 Burndown\"",
+          "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWUyPkRNfqAR4VUhpYsn45Pl02JdyvW0Pgj3t6OQrbbhLG_-ZVYXUPdkK82fQnemRRDqrwCLQbh1-k/pubchart?oid=360681917&format=interactive zoom=300 comment=\58 Burndown\"",
           "https://letsencrypt.org/stats-dashboard/ zoom=190",
           "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
           "gslide comment=\"dec5\" to=2017-12-05 id=11kKhTwF2sRNYhu5fQsEDamhHpYMusJwFP1qgBsePCJo",
