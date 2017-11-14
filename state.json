@@ -33,6 +33,13 @@
         ]
       },
       {
+        "name": "quantum",
+        "commands": [
+          "https://fx-topline-release-dash.herokuapp.com/?office-tv",
+          "https://quantum-soon.glitch.me/"
+        ]
+      },
+      {
         "name": "et",
         "commands": [
           "https://potch.github.io/github-graphs/?repo=aframevr/aframe",
