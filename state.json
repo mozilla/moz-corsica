@@ -37,8 +37,7 @@
         "name": "quantum",
         "commands": [
           "https://fx-topline-release-dash.herokuapp.com/?office-tv",
-          "https://quantum-soon.glitch.me/",
-          "https://mozilla-releng.github.io/releasewarrior-data"
+          "https://quantum-soon.glitch.me/"
         ]
       },
       {
