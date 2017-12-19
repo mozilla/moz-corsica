@@ -28,7 +28,6 @@
           "gslide comment=\"dec5\" to=2017-12-01 id=1ne7_BZDD5W1o0suyNbNQp6fdKZmbZwP02InPRIgm9pY",
           "https://health.graphics/quantum?full=1 zoom=150",
           "https://andymckay.github.io/mozilla-strava/ zoom=175",
-          "https://quantum-soon.glitch.me/ comment=\"quantum suit take off\"",
           "https://mozilla-releng.github.io/releasewarrior-data comment=\"release tracking\"",
           "gslide id=1ZHeq-J4ptapyieazrKzsNbiqWeAwVY9ulazbT8y6rVI comment=\"nice tweets\""
         ]
@@ -36,8 +35,7 @@
       {
         "name": "quantum",
         "commands": [
-          "https://fx-topline-release-dash.herokuapp.com/?office-tv",
-          "https://quantum-soon.glitch.me/"
+          "https://fx-topline-release-dash.herokuapp.com/?office-tv"
         ]
       },
       {
