@@ -32,6 +32,7 @@
       {
         "name": "quantum",
         "commands": [
+          "https://fx-topline-release-dash.herokuapp.com/?office-tv"
         ]
       },
       {
