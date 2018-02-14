@@ -1,186 +1,188 @@
 {
-  "settings::timer": {
-    "resetTime": 120000,
-    "jitter": 15000,
-    "resetOnConnect": true,
-    "screens": {
-      "moc1": {
-        "resetTime": 1200000,
-        "jitter": 600000
-      },
-      "moc3": {
-        "resetTime": 1200000,
-        "jitter": 600000
-      }
+    "settings::timer": {
+        "resetTime": 120000,
+        "jitter": 15000,
+        "resetOnConnect": true,
+        "screens": {
+            "moc1": {
+                "resetTime": 1200000,
+                "jitter": 600000
+            },
+            "moc3": {
+                "resetTime": 1200000,
+                "jitter": 600000
+            }
+        }
+    },
+    "settings::tags": {
+        "tags": [
+            {
+                "name": "ambient",
+                "commands": [
+                    "https://www.whattrainisitnow.com/?tv",
+                    "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
+                    "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
+                    "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
+                    "https://are-we-triaged-yet.herokuapp.com/?version=59&report=untriaged comment=\"Beta Triage\"",
+                    "https://are-we-triaged-yet.herokuapp.com/?version=60&report=untriaged comment=\"Nightly Triage\"",
+                    "https://health.graphics/quantum?full=1 zoom=150",
+                    "https://andymckay.github.io/mozilla-strava/ zoom=175",
+                    "https://mozilla-releng.github.io/releasewarrior-data comment=\"release tracking\"",
+                    "gslide id=1Xf25whI3I7BFamEHi84DRxrQGlwhkI38phKrUEs5yvE to=\"2018-02-13\" comment=\"speaker series\"",
+                    "gslide id=1gVI2j3qEeY-fuM2nDt6q93R4uZJSk_838llnD_FhoeU comment=\"nice tweets\""
+                ]
+            },
+            {
+                "name": "quantum",
+                "commands": [
+                    "https://fx-topline-release-dash.herokuapp.com/?office-tv"
+                ]
+            },
+            {
+                "name": "et",
+                "commands": [
+                    "https://potch.github.io/github-graphs/?repo=aframevr/aframe",
+                    "https://potch.github.io/github-graphs/?repo=servo/servo",
+                    "https://potch.github.io/github-graphs/?repo=rust-lang/rust"
+                ]
+            },
+            {
+                "name": "airmo",
+                "commands": [
+                    "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
+                ]
+            },
+            {
+                "name": "cookies",
+                "commands": [
+                    "rss url=https://air.mozilla.org/feed/browsertest/public/webm item=random"
+                ]
+            },
+            {
+                "name": "whimsy",
+                "commands": [
+                    "content type=html comment=\"Whimsycorn\" content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
+                    "http://micropipes.com/temp/",
+                    "https://trends.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
+                ]
+            },
+            {
+                "name": "moc1",
+                "commands": [
+                    "https://mozdashtest1.herokuapp.com/pagerduty"
+                ]
+            },
+            {
+                "name": "moc2",
+                "commands": [
+                    "https://status.mozilla.org/ zoom=150"
+                ]
+            },
+            {
+                "name": "mtv",
+                "commands": [
+                    "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
+                    "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
+                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\""
+                ]
+            },
+            {
+                "name": "pdx-eng",
+                "commands": [
+                    "https://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\"",
+                    "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
+                    "https://originaldave77.files.wordpress.com/2013/03/wallpaper-2015-portland-super-mario-3-map-trimet-max-2014-dave-delisle-wallpaper2.jpg comment=\"Super Mario 3-themed Trimet map\"",
+                    "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland&color=#E66000'>\"",
+                    "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland%20%28Celsius%29&color=#E66000&units=ca'>\"",
+                    "https://i.imgur.com/yhuHkcx.gif",
+                    "http://whattrainisitnow.com/",
+                    "https://p.datadoghq.com/sb/279ea5216-630e79664d?tv_mode=true",
+                    "https://i.imgur.com/SsrTV6W.png comment=\"Data Classification\""
+                ]
+            },
+            {
+                "name": "paris",
+                "commands": [
+                    "https://www.vianavigo.com/infos-trafic/lignes",
+                    "https://people.debian.org/~sylvestre/station.html zoom=175",
+                    "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg",
+                    "http://sylvestre.ledru.info/mozallhandspictures/"
+                ]
+            },
+            {
+                "name": "platform",
+                "commands": [
+                    "https://health.graphics/crashes zoom=150",
+                    "https://health.graphics/crashes/beta zoom=150",
+                    "https://health.graphics/quantum?full=1 zoom=200"
+                ]
+            },
+            {
+                "name": "avops",
+                "commands": [
+                    "http://airmozilla-ops1.corpdmz.scl3.mozilla.com/wowza/",
+                    "https://moz-chargers.herokuapp.com/"
+                ]
+            },
+            {
+                "name": "tor",
+                "commands": [
+                    "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla%20Toronto&units=ca&color=#E66000'>\"",
+                    "http://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif"
+                ]
+            },
+            {
+                "name": "tpe",
+                "commands": []
+            },
+            {
+                "name": "tpe-lab",
+                "commands": [
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows8-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows8-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows8-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows8-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows8-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows8-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows10-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows10-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows10-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows10-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows10-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows10-64_set.html",
+                    "https://mozilla-twqa.github.io/Hasal_dashboard/daily_progress_all.html"
+                ]
+            },
+            {
+                "name": "ldn",
+                "commands": []
+            },
+            {
+                "name": "yvr",
+                "commands": [
+                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
+                ]
+            },
+            {
+                "name": "berlin",
+                "commands": [
+                    "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
+                    "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\""
+                ]
+            },
+            {
+                "name": "berlin-fun",
+                "commands": [
+                    "http://i.imgur.com/xQeUIME.jpg",
+                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Tupperware Amnesty\""
+                ]
+            }
+        ]
+    },
+    "settings::corsica-irc": {
+        "server": "irc.mozilla.org",
+        "channels": [
+            "#mozpdx"
+        ]
     }
-  },
-  "settings::tags": {
-    "tags": [
-      {
-        "name": "ambient",
-        "commands": [
-          "https://www.whattrainisitnow.com/?tv",
-          "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
-          "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
-          "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
-          "https://health.graphics/quantum?full=1 zoom=150",
-          "https://andymckay.github.io/mozilla-strava/ zoom=175",
-          "https://mozilla-releng.github.io/releasewarrior-data comment=\"release tracking\"",
-          "gslide id=1Xf25whI3I7BFamEHi84DRxrQGlwhkI38phKrUEs5yvE to="2018-02-13" comment=\"speaker series\""
-          "gslide id=1gVI2j3qEeY-fuM2nDt6q93R4uZJSk_838llnD_FhoeU comment=\"nice tweets\""
-        ]
-      },
-      {
-        "name": "quantum",
-        "commands": [
-          "https://fx-topline-release-dash.herokuapp.com/?office-tv"
-        ]
-      },
-      {
-        "name": "et",
-        "commands": [
-          "https://potch.github.io/github-graphs/?repo=aframevr/aframe",
-          "https://potch.github.io/github-graphs/?repo=servo/servo",
-          "https://potch.github.io/github-graphs/?repo=rust-lang/rust"
-        ]
-      },
-      {
-        "name": "airmo",
-        "commands": [
-          "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
-        ]
-      },
-      {
-        "name": "cookies",
-        "commands": [
-          "rss url=https://air.mozilla.org/feed/browsertest/public/webm item=random"
-        ]
-      },
-      {
-        "name": "whimsy",
-        "commands": [
-          "content type=html comment=\"Whimsycorn\" content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
-          "http://micropipes.com/temp/",
-          "https://trends.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
-        ]
-      },
-      {
-        "name": "moc1",
-        "commands": [
-          "https://mozdashtest1.herokuapp.com/pagerduty"
-        ]
-      },
-      {
-        "name": "moc2",
-        "commands": [
-          "https://status.mozilla.org/ zoom=150"
-        ]
-      },
-      {
-        "name": "mtv",
-        "commands": [
-          "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
-          "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
-          "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\""
-        ]
-      },
-      {
-        "name": "pdx-eng",
-        "commands": [
-          "https://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\"",
-          "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
-          "https://originaldave77.files.wordpress.com/2013/03/wallpaper-2015-portland-super-mario-3-map-trimet-max-2014-dave-delisle-wallpaper2.jpg comment=\"Super Mario 3-themed Trimet map\"",
-          "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland&color=#E66000'>\"",
-          "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland%20%28Celsius%29&color=#E66000&units=ca'>\"",
-          "https://i.imgur.com/yhuHkcx.gif",
-          "http://whattrainisitnow.com/",
-          "https://p.datadoghq.com/sb/279ea5216-630e79664d?tv_mode=true",
-          "https://i.imgur.com/SsrTV6W.png comment=\"Data Classification\""
-        ]
-      },
-      {
-          "name": "paris",
-          "commands": [
-              "https://www.vianavigo.com/infos-trafic/lignes",
-              "https://people.debian.org/~sylvestre/station.html zoom=175",
-              "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg",
-              "http://sylvestre.ledru.info/mozallhandspictures/"
-        ]
-      },
-      {
-        "name": "platform",
-        "commands": [
-          "https://health.graphics/crashes zoom=150",
-          "https://health.graphics/crashes/beta zoom=150",
-          "https://health.graphics/quantum?full=1 zoom=200"
-        ]
-      },
-      {
-        "name": "avops",
-        "commands": [
-          "http://airmozilla-ops1.corpdmz.scl3.mozilla.com/wowza/",
-          "https://moz-chargers.herokuapp.com/"
-        ]
-      },
-      {
-        "name": "tor",
-        "commands": [
-          "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla%20Toronto&units=ca&color=#E66000'>\"",
-          "http://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif"
-        ]
-      },
-      {
-        "name": "tpe",
-        "commands": [
-        ]
-      },
-      {
-        "name": "tpe-lab",
-        "commands": [
-          "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows8-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows8-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows8-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows8-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows8-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows8-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows10-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows10-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows10-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows10-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows10-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows10-64_set.html",
-          "https://mozilla-twqa.github.io/Hasal_dashboard/daily_progress_all.html"
-        ]
-      },
-      {
-        "name": "ldn",
-        "commands": [
-        ]
-      },
-      {
-        "name": "yvr",
-        "commands": [
-          "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
-        ]
-      },
-      {
-        "name": "berlin",
-        "commands": [
-          "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
-          "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\""
-        ]
-      },
-      {
-        "name": "berlin-fun",
-        "commands": [
-          "http://i.imgur.com/xQeUIME.jpg",
-          "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Tupperware Amnesty\""
-        ]
-      }
-    ]
-  },
-  "settings::corsica-irc": {
-    "server": "irc.mozilla.org",
-    "channels": ["#mozpdx"]
-  }
 }
