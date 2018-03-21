@@ -29,8 +29,7 @@
                     "gslide id=1Z75lcJS6vh2hspghIC7RJHdoIbx0I_yZTwL0rd3g0Iw to=\"2018-04-12\" comment=\"speaker series\"",
                     "gslide id=1gVI2j3qEeY-fuM2nDt6q93R4uZJSk_838llnD_FhoeU comment=\"nice tweets\"",
                     "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\"",
-                    "http://think-safety.glitch.me/",
-                    "https://sylvestre.ledru.info/mozallhandspictures/"
+                    "http://think-safety.glitch.me/"
                 ]
             },
             {
@@ -126,7 +125,8 @@
                 "commands": [
                     "https://www.vianavigo.com/infos-trafic/lignes",
                     "https://people.debian.org/~sylvestre/station.html zoom=175",
-                    "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg"
+                    "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg",
+                    "https://sylvestre.ledru.info/mozallhandspictures/"
                 ]
             },
             {
