@@ -28,7 +28,8 @@
                     "https://mozilla-releng.github.io/releasewarrior-data comment=\"release tracking\"",
                     "gslide id=1Z75lcJS6vh2hspghIC7RJHdoIbx0I_yZTwL0rd3g0Iw to=\"2018-04-12\" comment=\"speaker series\"",
                     "gslide id=1gVI2j3qEeY-fuM2nDt6q93R4uZJSk_838llnD_FhoeU comment=\"nice tweets\"",
-                    "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\""
+                    "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\"",
+                    "http://think-safety.glitch.me/"
                 ]
             },
             {
@@ -96,8 +97,7 @@
                     "http://whattrainisitnow.com/",
                     "https://p.datadoghq.com/sb/279ea5216-630e79664d?tv_mode=true",
                     "https://i.imgur.com/SsrTV6W.png comment=\"Data Classification\"",
-                    "https://mythmon.github.io/corsica-tree-status/",
-                    "http://think-safety.glitch.me/"
+                    "https://mythmon.github.io/corsica-tree-status/"
                 ]
             },{
                 "name": "pdx-commons",
@@ -107,8 +107,7 @@
                     "https://originaldave77.files.wordpress.com/2013/03/wallpaper-2015-portland-super-mario-3-map-trimet-max-2014-dave-delisle-wallpaper2.jpg comment=\"Super Mario 3-themed Trimet map\"",
                     "content comment=\"weather\" type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland&color=#E66000'>\"",
                     "https://i.imgur.com/yhuHkcx.gif comment=\"Multnomah falls\"",
-                    "http://whattrainisitnow.com/",
-                    "http://think-safety.glitch.me/"
+                    "http://whattrainisitnow.com/"
                 ]
             },
             {
