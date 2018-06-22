@@ -115,7 +115,7 @@
                 "name": "paris",
                 "commands": [
                     "https://www.vianavigo.com/infos-trafic/lignes",
-                    "http://www.parisavelo.net/carte-imprimable-pistes-cyclables.jpg",
+                    "https://api-site-cdn.paris.fr/images/94966",
                     "https://sylvestre.ledru.info/mozallhandspictures/"
                 ]
             },
