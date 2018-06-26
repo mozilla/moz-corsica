@@ -62,7 +62,7 @@
                 "commands": [
                     "content type=html comment=\"Whimsycorn\" content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
                     "https://micropipes.com/temp/",
-		    "https://trends.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
+                    "https://trends.google.com/trends/hottrends/visualize?nrow=3&ncol=3"
                 ]
             },
             {
