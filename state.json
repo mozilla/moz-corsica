@@ -130,7 +130,6 @@
             {
                 "name": "avops",
                 "commands": [
-                    "https://airmozilla-ops1.corpdmz.scl3.mozilla.com/wowza/",
                     "https://moz-chargers.herokuapp.com/"
                 ]
             },
