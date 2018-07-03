@@ -18,6 +18,7 @@
         "tags": [
             {
                 "name": "ambient",
+                "random": true,
                 "commands": [
                     "https://www.whattrainisitnow.com/?tv",
                     "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
@@ -33,12 +34,14 @@
             },
             {
                 "name": "quantum",
+                "random": true,
                 "commands": [
                     "https://fx-topline-release-dash.herokuapp.com/?office-tv"
                 ]
             },
             {
                 "name": "et",
+                "random": true,
                 "commands": [
                     "https://potch.github.io/github-graphs/?repo=aframevr/aframe",
                     "https://potch.github.io/github-graphs/?repo=servo/servo",
@@ -47,18 +50,21 @@
             },
             {
                 "name": "airmo",
+                "random": true,
                 "commands": [
                     "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
                 ]
             },
             {
                 "name": "cookies",
+                "random": true,
                 "commands": [
                     "rss url=https://air.mozilla.org/feed/browsertest/public/webm item=random"
                 ]
             },
             {
                 "name": "whimsy",
+                "random": true,
                 "commands": [
                     "content type=html comment=\"Whimsycorn\" content=\"<style>@keyframes AnimationName{0%{background-position:center,100vw 50%}100%{background-position:center,0vw 50%}}body{background:url(https://raw.githubusercontent.com/bwinton/whimsy/f8c52e336233897ba37aa265e2fccdaa008a2ca1/wheeeeee.png)no-repeat center,linear-gradient(to right,red 0%,orange 17vw,yellow 33vw,#0f0 50vw,blue 67vw,violet 83vw,red 100vw);height:100%;background-size:90vh,cover;margin:0;animation:AnimationName 180s linear infinite;}</style><body>\"",
                     "https://micropipes.com/temp/",
@@ -67,18 +73,21 @@
             },
             {
                 "name": "moc1",
+                "random": true,
                 "commands": [
                     "https://mozdashtest1.herokuapp.com/pagerduty"
                 ]
             },
             {
                 "name": "moc2",
+                "random": true,
                 "commands": [
                     "https://status.mozilla.org/ zoom=150"
                 ]
             },
             {
                 "name": "mtv",
+                "random": true,
                 "commands": [
                     "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
                     "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
@@ -87,6 +96,7 @@
             },
             {
                 "name": "pdx-eng",
+                "random": true,
                 "commands": [
                     "https://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\"",
                     "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
@@ -101,6 +111,7 @@
                 ]
             },{
                 "name": "pdx-commons",
+                "random": true,
                 "commands": [
                     "https://i.imgur.com/XZz3CDA.png comment=\"Firefox Developer Edition logo, 16:9 version\"",
                     "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
@@ -113,6 +124,7 @@
             },
             {
                 "name": "paris",
+                "random": true,
                 "commands": [
                     "https://www.vianavigo.com/infos-trafic/lignes",
                     "https://api-site-cdn.paris.fr/images/94966",
@@ -121,6 +133,7 @@
             },
             {
                 "name": "platform",
+                "random": true,
                 "commands": [
                     "https://health.graphics/crashes zoom=150",
                     "https://health.graphics/crashes/beta zoom=150",
@@ -129,12 +142,14 @@
             },
             {
                 "name": "avops",
+                "random": true,
                 "commands": [
                     "https://moz-chargers.herokuapp.com/"
                 ]
             },
             {
                 "name": "tor",
+                "random": true,
                 "commands": [
                     "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla%20Toronto&units=ca&color=#E66000'>\"",
                     "https://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif"
@@ -142,10 +157,12 @@
             },
             {
                 "name": "tpe",
+                "random": true,
                 "commands": []
             },
             {
                 "name": "tpe-lab",
+                "random": true,
                 "commands": [
                     "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows8-64_set.html",
                     "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows8-64_set.html",
@@ -164,16 +181,19 @@
             },
             {
                 "name": "ldn",
+                "random": true,
                 "commands": []
             },
             {
                 "name": "yvr",
+                "random": true,
                 "commands": [
                     "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
                 ]
             },
             {
                 "name": "berlin",
+                "random": true,
                 "commands": [
                     "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
                     "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
@@ -183,6 +203,7 @@
             },
             {
                 "name": "berlin-fun",
+                "random": true,
                 "commands": [
                     "https://i.imgur.com/xQeUIME.jpg"
                 ]
