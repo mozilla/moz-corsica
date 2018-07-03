@@ -182,7 +182,10 @@
             {
                 "name": "ldn",
                 "random": true,
-                "commands": []
+                "commands": [
+                    "https://forecast.io/embed/#lat=51.5044675&lon=-0.0970883&units=ca&name=Mozilla%20London&color=red zoom=300 comment=\"Mozilla London Weather\"",
+                    "https://sylvestre.ledru.info/mozallhandspictures/"
+                ]
             },
             {
                 "name": "yvr",
