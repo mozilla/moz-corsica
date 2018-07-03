@@ -205,7 +205,8 @@
                 "name": "berlin-fun",
                 "random": true,
                 "commands": [
-                    "https://i.imgur.com/xQeUIME.jpg"
+                    "https://i.imgur.com/xQeUIME.jpg",
+                    "https://raw.githubusercontent.com/brassy-/brassy-.github.io/master/photon/welcome-july.jpg comment=\"Office new hires\""
                 ]
             }
         ]
