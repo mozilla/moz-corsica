@@ -91,7 +91,8 @@
                 "commands": [
                     "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
                     "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
-                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\""
+                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\"",
+                    "https://drive.google.com/uc?id=11cLVU4qI0xWcdcWXaAUrBG7YvPnCxegc start=2018-08-22T15:00:00Z end=2018-09 comment=\"family day\""
                 ]
             },
             {
@@ -107,7 +108,8 @@
                     "https://p.datadoghq.com/sb/279ea5216-630e79664d?tv_mode=true",
                     "https://i.imgur.com/SsrTV6W.png comment=\"Data Classification\"",
                     "https://mythmon.github.io/corsica-tree-status/",
-                    "https://trimet.org/onsite/multi_stop_arrivals.html?locationIDs=10791,10792,1607,10756,10770&byRoute"
+                    "https://trimet.org/onsite/multi_stop_arrivals.html?locationIDs=10791,10792,1607,10756,10770&byRoute",
+                    "https://drive.google.com/uc?id=1drKX23CzMEOL-YFyak0D7WIc46_iRg_x start=2018-08-10T15:00:00Z end=2018-08-26T02:00:00Z comment=\"family day\""
                 ]
             },{
                 "name": "pdx-commons",
@@ -119,7 +121,8 @@
                     "content comment=\"weather\" type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=45.5236&lon=-122.68352&name=Mozilla%20Portland&color=#E66000'>\"",
                     "https://i.imgur.com/yhuHkcx.gif comment=\"Multnomah falls\"",
                     "https://whattrainisitnow.com/",
-                    "https://trimet.org/onsite/multi_stop_arrivals.html?locationIDs=10791,10792,1607,10756,10770&byRoute"
+                    "https://trimet.org/onsite/multi_stop_arrivals.html?locationIDs=10791,10792,1607,10756,10770&byRoute",
+                    "https://drive.google.com/uc?id=1drKX23CzMEOL-YFyak0D7WIc46_iRg_x start=2018-08-10T15:00:00Z end=2018-10-26T02:00:00Z comment=\"family day\""
                 ]
             },
             {
@@ -128,7 +131,8 @@
                 "commands": [
                     "https://www.vianavigo.com/infos-trafic/lignes",
                     "https://api-site-cdn.paris.fr/images/94966",
-                    "https://sylvestre.ledru.info/mozallhandspictures/"
+                    "https://sylvestre.ledru.info/mozallhandspictures/",
+                    "https://drive.google.com/uc?id=1qKCHF9pHNR6qzAYo09h8TFFE1DaqrvEk start=2018-08-10T06:00:00Z end=2018-09-15T18:00:00Z comment=\"family day\""
                 ]
             },
             {
@@ -152,7 +156,8 @@
                 "random": true,
                 "commands": [
                     "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla%20Toronto&units=ca&color=#E66000'>\"",
-                    "https://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif"
+                    "https://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif",
+                    "https://drive.google.com/uc?id=1_sXgjUdcHkn8yeUHvphwL4d00lDZBXwu end=2018-07-22T23:00:00Z"
                 ]
             },
             {
@@ -184,14 +189,16 @@
                 "random": true,
                 "commands": [
                     "https://forecast.io/embed/#lat=51.5044675&lon=-0.0970883&units=ca&name=Mozilla%20London&color=red zoom=300 comment=\"Mozilla London Weather\"",
-                    "https://sylvestre.ledru.info/mozallhandspictures/"
+                    "https://sylvestre.ledru.info/mozallhandspictures/",
+                    "https://drive.google.com/uc?id=1Fbx79ZbnTtBJZCm82rmPohCS8y-jnEXZ end=2018-07-21T18:00:00Z comment=\"family day\""
                 ]
             },
             {
                 "name": "yvr",
                 "random": true,
                 "commands": [
-                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
+                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\"",
+                    "https://drive.google.com/uc?id=1ksJTpKnoeJuslOMJNUl37k1fRtEIwRmH end=2018-07-22T00:00:00Z comment=\"family day\""
                 ]
             },
             {
@@ -201,7 +208,8 @@
                     "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
                     "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
                     "gslide id=1jZIJj_3swsUzATpPO9HN3ZWm6deY8hE5sEF9GlfjfXs comment=\"Berlin office events\"",
-                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Internet health jeopardy\""
+                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Internet health jeopardy\"",
+                    "https://drive.google.com/uc?id=13eCEi47a9DWU9Y6hedeqZrJCaEXPRof0 start=2018-08-31T06:00:00Z end=2018-09-15T19:00:00Z commment=\"family day\""
                 ]
             },
             {
@@ -210,6 +218,13 @@
                 "commands": [
                     "https://i.imgur.com/xQeUIME.jpg",
                     "https://raw.githubusercontent.com/brassy-/brassy-.github.io/master/photon/welcome-july.jpg comment=\"Office new hires\""
+                ]
+            },
+            {
+                "name": "sfo",
+                "random": true,
+                "commands": [
+                    "https://drive.google.com/uc?id=11cLVU4qI0xWcdcWXaAUrBG7YvPnCxegc start=2018-08-22T15:00:00Z end=2018-09 comment=\"family day\""
                 ]
             }
         ]
