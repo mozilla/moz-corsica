@@ -153,7 +153,7 @@
                 "random": true,
                 "commands": [
                     "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla%20Toronto&units=ca&color=#E66000'>\"",
-                    "https://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif",
+                    "https://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif"
                 ]
             },
             {
