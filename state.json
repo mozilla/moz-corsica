@@ -92,9 +92,7 @@
                     "https://mozilla.github.io/signage/Eventbrite-SanFrancisco.png end=2018-08-31 comment=\"Moz Mixer\"",
                     "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
                     "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
-                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\"",
-                    "https://drive.google.com/uc?id=11cLVU4qI0xWcdcWXaAUrBG7YvPnCxegc end=2018-09-15T23:00:00Z comment=\"family day\""
-
+                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\""
                 ]
             },
             {
@@ -156,7 +154,6 @@
                 "commands": [
                     "content type=html content=\"<body style='height:100%;background:linear-gradient(#EAEFF2,#D4DDE4)'><iframe style='border:0;position:absolute;top:50%;left:50%;height:50%;width:30vw;height:30vh;transform:translate(-50%,-50%) scale(3);' src='https://forecast.io/embed/#lat=43.6474&lon=-79.3942&name=Mozilla%20Toronto&units=ca&color=#E66000'>\"",
                     "https://cdn.torontolife.com/wp-content/uploads/2015/10/jose-bautista-bat-02-flip.gif",
-                    "https://drive.google.com/uc?id=1_sXgjUdcHkn8yeUHvphwL4d00lDZBXwu end=2018-07-22T23:00:00Z"
                 ]
             },
             {
@@ -188,16 +185,14 @@
                 "random": true,
                 "commands": [
                     "https://forecast.io/embed/#lat=51.5044675&lon=-0.0970883&units=ca&name=Mozilla%20London&color=red zoom=300 comment=\"Mozilla London Weather\"",
-                    "https://sylvestre.ledru.info/mozallhandspictures/",
-                    "https://drive.google.com/uc?id=1Fbx79ZbnTtBJZCm82rmPohCS8y-jnEXZ end=2018-07-21T18:00:00Z comment=\"family day\""
+                    "https://sylvestre.ledru.info/mozallhandspictures/"
                 ]
             },
             {
                 "name": "yvr",
                 "random": true,
                 "commands": [
-                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\"",
-                    "https://drive.google.com/uc?id=1ksJTpKnoeJuslOMJNUl37k1fRtEIwRmH end=2018-07-22T00:00:00Z comment=\"family day\""
+                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
                 ]
             },
             {
@@ -207,8 +202,7 @@
                     "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
                     "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
                     "gslide id=1jZIJj_3swsUzATpPO9HN3ZWm6deY8hE5sEF9GlfjfXs comment=\"Berlin office events\"",
-                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Internet health jeopardy\"",
-                    "https://drive.google.com/uc?id=13eCEi47a9DWU9Y6hedeqZrJCaEXPRof0 start=2018-08-31T06:00:00Z end=2018-09-15T19:00:00Z commment=\"family day\""
+                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Internet health jeopardy\""
                 ]
             },
             {
@@ -223,9 +217,6 @@
                 "name": "sfo",
                 "random": true,
                 "commands": [
-                    "https://mozilla.github.io/signage/Eventbrite-SanFrancisco.png end=2018-08-31 comment=\"Moz Mixer\"",
-                    "https://drive.google.com/uc?id=11cLVU4qI0xWcdcWXaAUrBG7YvPnCxegc end=2018-09-15T23:00:00Z comment=\"family day\""
-
                 ]
             }
         ]
