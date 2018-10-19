@@ -36,7 +36,7 @@
                 "name": "quantum",
                 "random": true,
                 "commands": [
-                    "https://fx-topline-release-dash.herokuapp.com/?office-tv"
+                    "https://fx-topline-release-dash.herokuapp.com/?office-tv end=2018-10-23"
                 ]
             },
             {
