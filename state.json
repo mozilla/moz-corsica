@@ -20,7 +20,7 @@
                 "name": "ambient",
                 "random": true,
                 "commands": [
-                    "https://www.whattrainisitnow.com/?tv",
+                    "https://whattrainisitnow.com/?tv",
                     "https://mozilla.github.io/releasehealth/?channel=nightly&display=bigscreen comment=\"Nightly Blockers\"",
                     "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
                     "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
