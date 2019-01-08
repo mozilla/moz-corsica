@@ -108,7 +108,8 @@
                     "https://mythmon.github.io/corsica-tree-status/",
                     "https://trimet.org/onsite/multi_stop_arrivals.html?locationIDs=10791,10792,1607,10756,10770&byRoute"
                 ]
-            },{
+            },
+            {
                 "name": "pdx-commons",
                 "random": true,
                 "commands": [
@@ -119,6 +120,15 @@
                     "https://i.imgur.com/yhuHkcx.gif comment=\"Multnomah falls\"",
                     "https://trimet.org/onsite/multi_stop_arrivals.html?locationIDs=10791,10792,1607,10756,10770&byRoute"
                 ]
+            },
+            {
+                "name": "pdx-pretty",
+                "random": true,
+                "commands": [
+                    "https://www.youtube.com/watch?v=yamiiGk6aSs comment=\"snow falling\"",
+                    "https://www.youtube.com/watch?v=L_LUpnjgPso comment=\"fire place\"",
+                    "https://www.youtube.com/watch?v=0YjLf8T0lUs&t=210s comment=\"landscapes\""
+                }
             },
             {
                 "name": "paris",
