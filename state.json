@@ -242,7 +242,8 @@
                 "name": "pocket",
                 "random": true,
                 "commands": [
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00"
+                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00",
+                    "https://analytics.amplitude.com/share/49467e0ef5404945b13820b1308c01d8"
                 ]
             }                    
         ]
