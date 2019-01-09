@@ -242,7 +242,8 @@
                 "name": "pocket",
                 "random": true,
                 "commands": [
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00"
+                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00",
+                    "https://modeanalytics.com/getpocket/reports/1e472d6c4e19?secret_key=cc917667e5b8d18c92066de0"
                 ]
             }                    
         ]
