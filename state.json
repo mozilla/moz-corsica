@@ -93,9 +93,7 @@
                     "https://mozilla.github.io/signage/Eventbrite-SanFrancisco.png end=2018-08-31 comment=\"Moz Mixer\"",
                     "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
                     "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
-                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\"",
-                    "https://i.imgur.com/kWMtBCA.jpg comment=\"Wifi update reminder\" end=2018-11-24T00:00:00",
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" start=2018-11-24T00:00:00 end=2018-11-30T00:00:00"
+                    "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\""
                 ]
             },
             {
@@ -140,8 +138,7 @@
                 "commands": [
                     "https://www.vianavigo.com/infos-trafic/lignes",
                     "https://api-site-cdn.paris.fr/images/94966",
-                    "https://sylvestre.ledru.info/mozallhandspictures/",
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00"
+                    "https://sylvestre.ledru.info/mozallhandspictures/"
                 ]
             },
             {
@@ -171,7 +168,6 @@
                 "name": "tpe",
                 "random": true,
                 "commands": [
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00"
                 ]
             },
             {
@@ -198,17 +194,14 @@
                 "random": true,
                 "commands": [
                     "https://forecast.io/embed/#lat=51.5044675&lon=-0.0970883&units=ca&name=Mozilla%20London&color=red zoom=300 comment=\"Mozilla London Weather\"",
-                    "https://sylvestre.ledru.info/mozallhandspictures/",
-                    "https://i.imgur.com/hXxsK0D.jpg comment=\"Wifi update reminder\" end=2018-11-24T00:00:00",
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" start=2018-11-24T00:00:00 end=2018-11-30T00:00:00"
+                    "https://sylvestre.ledru.info/mozallhandspictures/"
                 ]
             },
             {
                 "name": "yvr",
                 "random": true,
                 "commands": [
-                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\"",
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00"
+                    "https://forecast.io/embed/#lat=49.2825&lon=-123.1091&name=Mozilla%20Vancouver&units=ca&color=#5DA61B&font=Georgia zoom=300 comment=\"Vancouver Weather\""
                 ]
             },
             {
@@ -234,14 +227,12 @@
                 "name": "sfo",
                 "random": true,
                 "commands": [
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00"
                 ]
             },
             {
                 "name": "pocket",
                 "random": true,
                 "commands": [
-                    "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00",
                     "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\""
                 ]
             }                    
