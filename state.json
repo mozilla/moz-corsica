@@ -243,7 +243,7 @@
                 "random": true,
                 "commands": [
                     "https://i.imgur.com/EgoNBWl.jpg comment=\"Wifi update success\" end=2018-11-24T00:00:00".
-                    "https://docs.google.com/presentation/d/1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY/edit?usp=sharing"
+                    "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\""
                 ]
             }                    
         ]
