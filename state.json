@@ -234,6 +234,8 @@
                 "random": true,
                 "commands": [
                     "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\""
+                    "https://darksky.net/widget/default/37.779,-122.4199/us12/en.js?width=100%&height=600&title=San Francisco, CA&textColor=333333&bgColor=FFFFFF&transparency=false&skyColor=undefined&fontFamily=Arial&customFont=&units=us&htColor=333333&ltColor=C7C7C7&displaySum=yes&displayHeader=yes"
+                    "https://modeanalytics.com/getpocket/reports/13a9c899c073?secret_key=accf7cf6cf7e55cc0c969079/"
                 ]
             }                    
         ]
