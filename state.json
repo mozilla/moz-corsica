@@ -25,13 +25,13 @@
                     "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
                     "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
                     "https://mozilla.github.io/bug-handling/task-defect-enhancement comment=\"Bug Classification\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=67&report=untriaged comment=\"Release Triage\"",                    
+                    "https://are-we-triaged-yet.herokuapp.com/?version=67&report=untriaged comment=\"Release Triage\"",
                     "https://are-we-triaged-yet.herokuapp.com/?version=68&report=untriaged comment=\"Beta Triage\"",
                     "https://are-we-triaged-yet.herokuapp.com/?version=69&report=untriaged comment=\"Nightly Triage\"",
                     "gslide id=1NYUuia30wHJMRUMTkZtAMpyzjPq0Grw-LEq1y6x47OI comment=\"nice tweets\"",
                     "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\"",
                     "https://i.imgur.com/w4epniR.png comment=\"xMatters status\" before=2019-05-16T00:00:00Z",
-                    "content type=html content=\"<body><img style='object-fit:cover;' src='https://github.com/mozilla/moz-corsica/raw/master/images/trailhead-celebrate.gif'></body>\" comment=\"Trailhead Launch\" end=2019-06-05T08:00:00Z"
+                    "content type=html content=\"<body style='background: url(https://github.com/mozilla/moz-corsica/raw/master/images/trailhead-celebrate.gif) no-repeat center center fixed; background-size: cover;'></body>\" comment=\"Trailhead Launch\" end=2019-06-05T08:00:00Z"
                 ]
             },
             {
@@ -168,8 +168,7 @@
             {
                 "name": "tpe",
                 "random": true,
-                "commands": [
-                ]
+                "commands": []
             },
             {
                 "name": "tpe-lab",
@@ -227,8 +226,7 @@
             {
                 "name": "sfo",
                 "random": true,
-                "commands": [
-                ]
+                "commands": []
             },
             {
                 "name": "pocket",
@@ -237,7 +235,7 @@
                     "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\"",
                     "https://forecast.io/embed/#lat=37.779&lon=-122.41499&name=Pocket%20-%20SanFrancisco&color=#DC143C&font=Arial zoom=300 comment=\"SF Weather\""
                 ]
-            }                    
+            }
         ]
     },
     "settings::corsica-irc": {
