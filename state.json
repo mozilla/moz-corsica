@@ -233,7 +233,8 @@
                 "name": "pocket",
                 "random": true,
                 "commands": [
-                    "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\""
+                    "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\"",
+                    "https://forecast.io/embed/#lat=37.779&lon=-122.41499&name=Pocket%20-%20SanFrancisco&color=#DC143C&font=Arial zoom=300 comment=\"SF Weather\""
                 ]
             }                    
         ]
