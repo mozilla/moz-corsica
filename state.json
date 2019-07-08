@@ -25,9 +25,9 @@
                     "https://mozilla.github.io/releasehealth/?channel=beta&display=bigscreen comment=\"Beta Blockers\"",
                     "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
                     "https://mozilla.github.io/bug-handling/task-defect-enhancement comment=\"Bug Classification\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=67&report=untriaged comment=\"Release Triage\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=68&report=untriaged comment=\"Beta Triage\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=69&report=untriaged comment=\"Nightly Triage\"",
+                    "https://are-we-triaged-yet.herokuapp.com/?version=68&report=untriaged comment=\"Release Triage\"",
+                    "https://are-we-triaged-yet.herokuapp.com/?version=69&report=untriaged comment=\"Beta Triage\"",
+                    "https://are-we-triaged-yet.herokuapp.com/?version=70&report=untriaged comment=\"Nightly Triage\"",
                     "gslide id=1NYUuia30wHJMRUMTkZtAMpyzjPq0Grw-LEq1y6x47OI comment=\"nice tweets\"",
                     "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\"",
                     "https://www.whatrustisit.com"
