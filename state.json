@@ -29,16 +29,13 @@
                     "https://are-we-triaged-yet.herokuapp.com/?version=68&report=untriaged comment=\"Beta Triage\"",
                     "https://are-we-triaged-yet.herokuapp.com/?version=69&report=untriaged comment=\"Nightly Triage\"",
                     "gslide id=1NYUuia30wHJMRUMTkZtAMpyzjPq0Grw-LEq1y6x47OI comment=\"nice tweets\"",
-                    "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\"",
-                    "https://i.imgur.com/w4epniR.png comment=\"xMatters status\" before=2019-05-16T00:00:00Z",
-                    "content type=html content=\"<body style='background: url(https://github.com/mozilla/moz-corsica/raw/master/images/trailhead-celebrate.gif) no-repeat center center fixed; background-size: cover;'></body>\" comment=\"Trailhead Launch\" end=2019-06-05T08:00:00Z"
+                    "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\""
                 ]
             },
             {
                 "name": "quantum",
                 "random": true,
                 "commands": [
-                    "https://fx-topline-release-dash.herokuapp.com/?office-tv end=2018-10-23"
                 ]
             },
             {
@@ -91,7 +88,6 @@
                 "name": "mtv",
                 "random": true,
                 "commands": [
-                    "https://mozilla.github.io/signage/Eventbrite-SanFrancisco.png end=2018-08-31 comment=\"Moz Mixer\"",
                     "https://forecast.io/embed/#lat=37.3874&lon=-122.0602&name=Mozilla%20Mountain%20View&color=#E66000 zoom=300 comment=\"Mountain View Weather\"",
                     "https://moz-menu-mv.glitch.me/ comment=\"MV Lunch Menu\"",
                     "https://moz-commute-mv.glitch.me/ comment=\"MV Traffic & Transit\""
@@ -210,8 +206,7 @@
                 "commands": [
                     "https://forecast.io/embed/#lat=52.499&lon=13.4491&units=ca&name=Berlin%20Kreuzberg zoom=300 comment=\"Berlin Kreuzberg Weather\"",
                     "https://d3vv6lp55qjaqc.cloudfront.net/items/2a1J2x1x201d1K2f2C1d/firefox-nightly-wallpaper-1920x1080.png comment=\"Firefox Nightly logo, 16:9 version\"",
-                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Internet health jeopardy\"",
-                    "gslide id=16IsHLyf-vdK46auzTYQ7FdagBIIgKGxPctdExDbIfSs end=2019-05-31"
+                    "gslide id=1I5CqL2zWUcAG535J769oADif_AiN4_43Kx8QscAtxbQ comment=\"Internet health jeopardy\""
                 ]
             },
             {
