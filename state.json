@@ -227,6 +227,7 @@
                 "name": "sfo",
                 "random": true,
                 "commands": [
+                    "gslide id=1ZtS6XVAqrj2pQDPINdXnSVB3_AH1v4wQ_NGwtbD8QPw comment=\"SFO Zoom Transition\""
                 ]
             },
             {
