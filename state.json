@@ -227,7 +227,7 @@
                 "name": "sfo",
                 "random": true,
                 "commands": [
-                    "gslide id=1ZtS6XVAqrj2pQDPINdXnSVB3_AH1v4wQ_NGwtbD8QPw comment=\"SFO Zoom Transition\""
+                    "gslide id=1VQvRzDCwKOuIYdluBnAYLqN_iMKSKjaz7EaFivkIUTs comment=\"SFO Zoom Transition\""
                 ]
             },
             {
@@ -236,13 +236,14 @@
                 "commands": [
                     "gslide id=1gDlOjkeMb9xLHzxhb5P5XL7gpIq08w0hdjCdykRIGTY comment=\"Pocket slideshow\"",
                     "https://forecast.io/embed/#lat=37.779&lon=-122.41499&name=Pocket%20-%20SanFrancisco&color=#DC143C&font=Arial zoom=300 comment=\"SF Weather\""
+                    "gslide id=19ajDpTNsnNZCQzrSbia069sT9ghOD9DJZKnbfWCwzv8 comment=\"Pocket Zoom Upgrade Schedule\""
                 ]
             },
             {
                 "name": "zoom",
                 "random": true,
                 "commands": [
-                    "gslide id=10A8AYTqvwdDCx9swd7XPRIM6K0JEVwxxkGSK4R1w-4I comment=\"SFO Zoom construction general update\""
+                    "gslide id=1VQvRzDCwKOuIYdluBnAYLqN_iMKSKjaz7EaFivkIUTs comment=\"SFO Zoom construction general update\""
                 ]
             },
             {
