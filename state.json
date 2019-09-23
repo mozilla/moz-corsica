@@ -26,9 +26,7 @@
                     "https://mozilla.github.io/releasehealth/?project=skyline&display=bigscreen comment=\"Skyline\"",
                     "https://mozilla.github.io/signage/data-classification.png comment=\"Data Classification\"",
                     "https://mozilla.github.io/bug-handling/task-defect-enhancement comment=\"Bug Classification\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=69&report=untriaged comment=\"Release Triage\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=70&report=untriaged comment=\"Beta Triage\"",
-                    "https://are-we-triaged-yet.herokuapp.com/?version=71&report=untriaged comment=\"Nightly Triage\"",
+                    "https://are-we-triaged-yet.herokuapp.com/?report=untriaged comment=\"Triage Status\"",
                     "gslide id=1HoHPGRgXiQzP9qs7kc5N5M0fs77laP3jB94TeUPtdU8 comment=\"nice tweets\"",
                     "https://bgrins.github.io/xbl-analysis/graph/#burndown zoom=180 comment=\"XBL Burndown\"",
                     "https://www.whatrustisit.com"
