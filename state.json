@@ -136,7 +136,6 @@
                 "random": true,
                 "commands": [
                     "https://www.vianavigo.com/infos-trafic/lignes",
-                    "https://api-site-cdn.paris.fr/images/94966",
                     "https://sylvestre.ledru.info/mozallhandspictures/"
                 ]
             },
