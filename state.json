@@ -166,27 +166,14 @@
                 ]
             },
             {
-                "name": "tpe",
-                "random": true,
-                "commands": []
-            },
-            {
-                "name": "tpe-lab",
+                "name": "tpe-press",
                 "random": true,
                 "commands": [
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows8-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows8-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows8-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows8-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows8-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows8-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/amazon_windows10-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook1_windows10-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/facebook2_windows10-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/gdoc_gsearch_windows10-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/gmail_windows10-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/youtube_windows10-64_set.html",
-                    "https://mozilla-twqa.github.io/Hasal_dashboard/daily_progress_all.html"
+                    "https://youtube.com/watch?v=f9SGl_5D1hk",
+                    "https://youtube.com/watch?v=5XJC9LOl6Us",
+                    "https://youtube.com/watch?v=RrYrFpoUXiQ&t=120s",
+                    "https://youtube.com/watch?v=ydQbAGLDZ-k",
+                    "gslide id=1gGZ3Mzl9LbiN-sT8XB9Ip7Kq5XZQ2plGZPSJsAfm8b8 comment=\"Dec 2019 comms\""
                 ]
             },
             {
