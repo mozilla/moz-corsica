@@ -166,7 +166,7 @@
                 ]
             },
             {
-                "name": "tpe-press",
+                "name": "tpe-comms",
                 "random": true,
                 "commands": [
                     "https://youtube.com/watch?v=f9SGl_5D1hk",
