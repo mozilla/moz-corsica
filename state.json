@@ -38,8 +38,7 @@
             {
                 "name": "quantum",
                 "random": true,
-                "commands": [
-                ]
+                "commands": []
             },
             {
                 "name": "et",
@@ -239,8 +238,7 @@
                     "gslide id=1VQvRzDCwKOuIYdluBnAYLqN_iMKSKjaz7EaFivkIUTs comment=\"SFO Zoom construction general update\""
                 ]
             },
-            {
-            }
+            {}
         ]
     }
 }
