@@ -152,7 +152,6 @@
                 "name": "avops",
                 "random": true,
                 "commands": [
-                    "https://moz-chargers.herokuapp.com/"
                 ]
             },
             {
