@@ -1,6 +1,8 @@
 moz-corsica
 ===========
 
+[![Build Status](https://github.com/mozilla/moz-corsica/actions/workflows/ci.yml/badge.svg)]
+
 Public Corsica instance for Mozilla office and home offices.
 
 If you are at a Mozilla office, this project is what powers the content
