@@ -1,8 +1,6 @@
 moz-corsica
 ===========
 
-[![Build Status](https://travis-ci.org/mozilla/moz-corsica.svg)](https://travis-ci.org/mozilla/moz-corsica)
-
 Public Corsica instance for Mozilla office and home offices.
 
 If you are at a Mozilla office, this project is what powers the content
@@ -29,7 +27,7 @@ and we can remotely configure the screen.
 Alternatively, you can manually configure a window by open the Web Console (Tools-> Web Developer-> Web Console) and run the following commands, substituting your preferred values for name and tags:
 
 ```javascript
-config.name = "$the-desired-name"; 
+config.name = "$the-desired-name";
 config.tags = ["ambient"];
 writeConfig();
 ```
