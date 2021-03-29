@@ -1,7 +1,7 @@
 moz-corsica
 ===========
 
-[![Build Status](https://github.com/mozilla/moz-corsica/actions/workflows/ci.yml/badge.svg)]
+![Build Status](https://github.com/mozilla/moz-corsica/actions/workflows/ci.yml/badge.svg)
 
 Public Corsica instance for Mozilla office and home offices.
 
