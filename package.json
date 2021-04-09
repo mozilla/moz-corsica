@@ -8,7 +8,7 @@
     "test": "./script/cibuild"
   },
   "dependencies": {
-    "corsica": "^2.5.0",
+    "corsica": "^2.6.0",
     "corsica-flickr-2": "^0.1.4",
     "corsica-fx-screenshot": "^1.1.0",
     "corsica-google-presentation": "^0.2.0",
@@ -19,7 +19,7 @@
     "corsica-video": "^0.3.4",
     "corsica-xkcd": "^0.3.0",
     "corsica-youtube": "^0.1.0",
-    "forever": "^0.10.11",
+    "forever": "^3.0.4",
     "winston": "^0.7.3"
   }
 }
