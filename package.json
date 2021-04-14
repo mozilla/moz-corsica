@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "corsica": "^2.6.0",
-    "corsica-flickr-2": "^0.1.4",
+    "corsica-flickr-2": "^0.2.2",
     "corsica-fx-screenshot": "^1.1.0",
     "corsica-google-presentation": "^0.2.0",
     "corsica-image": "^0.2.2",
