@@ -17,7 +17,7 @@
     "corsica-rss": "^0.1.0",
     "corsica-tweet": "^2.0.0",
     "corsica-video": "^0.3.4",
-    "corsica-xkcd": "^0.3.0",
+    "corsica-xkcd": "^0.5.0",
     "corsica-youtube": "^0.1.0",
     "forever": "^3.0.4",
     "winston": "^0.7.3"
