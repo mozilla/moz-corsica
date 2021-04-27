@@ -49,13 +49,6 @@
                 ]
             },
             {
-                "name": "airmo",
-                "random": true,
-                "commands": [
-                    "rss url=https://air.mozilla.org/feed/corsica/public/webm item=random"
-                ]
-            },
-            {
                 "name": "cookies",
                 "random": true,
                 "commands": [
@@ -150,8 +143,7 @@
             {
                 "name": "avops",
                 "random": true,
-                "commands": [
-                ]
+                "commands": []
             },
             {
                 "name": "tor",
